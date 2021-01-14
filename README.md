@@ -2,14 +2,14 @@
 All course work 
 
 
-##CS 2020 
+## CS 2020 
 spring 2019 -- Summer 2019
 
 Professor:  Jadwiga A. Carlson --   Unknown
 
 Purpose: 
 
-##CLCV3800  Classical Mythology
+## CLCV3800  Classical Mythology
 Spring 2021
 
 Professor:  Scott Keister
