@@ -33,7 +33,7 @@ Professor: Hassan Rajaei
 Purpose:  This course covers the features of modern multiprocessing operating systems, Threads and Processes; Resource management; process scheduling and synchronization, memory management and virtual memory, file systems, device drivers and inter-process communications (IPC).
 
 
-##CS3060 Programming Languages 
+## CS3060 Programming Languages 
 Spring 2020 -- Spring 2021
 
 Professor: Sankardas Roy 
