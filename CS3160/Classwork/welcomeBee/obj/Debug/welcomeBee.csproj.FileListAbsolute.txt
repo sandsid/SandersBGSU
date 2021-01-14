@@ -1,0 +1,10 @@
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\bin\Debug\welcomeBee.exe.config
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\bin\Debug\welcomeBee.exe
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\bin\Debug\welcomeBee.pdb
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\obj\Debug\welcomeBee.csprojAssemblyReference.cache
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\obj\Debug\welcomeBee.Form1.resources
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\obj\Debug\welcomeBee.Properties.Resources.resources
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\obj\Debug\welcomeBee.csproj.GenerateResource.cache
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\obj\Debug\welcomeBee.csproj.CoreCompileInputs.cache
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\obj\Debug\welcomeBee.exe
+C:\Users\sands\OneDrive\Documents\SandersBGSU\CS3160\Classwork\welcomeBee\obj\Debug\welcomeBee.pdb
