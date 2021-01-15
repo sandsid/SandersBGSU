@@ -1,9 +1,11 @@
 //1/13/2021
 
+using System;
+
 public class Hello
 {
    static void Main()
    {
-      System.Console.Write("Hello world!");
+      Console.Write("Hello world!");
    }
 }
