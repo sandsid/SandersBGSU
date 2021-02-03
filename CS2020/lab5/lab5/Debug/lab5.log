@@ -1,0 +1,5 @@
+﻿  lab5.cpp
+c:\users\sidney sanders\desktop\visual studios c++\cs2020-jc\lab5\lab5\lab5.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sidney sanders\desktop\visual studios c++\cs2020-jc\lab5\lab5\lab5.cpp(222): warning C4805: '==': unsafe mix of type 'FaceCards' and type 'bool' in operation
+  lab5.vcxproj -> C:\Users\Sidney Sanders\Desktop\Visual Studios C++\CS2020-jc\lab5\Debug\lab5.exe
+  lab5.vcxproj -> C:\Users\Sidney Sanders\Desktop\Visual Studios C++\CS2020-jc\lab5\Debug\lab5.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\bin\Debug\SandersS_Lab6.exe.config
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\bin\Debug\SandersS_Lab6.exe
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\bin\Debug\SandersS_Lab6.pdb
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\bin\Debug\SandersS_Lab6.xml
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.vbprojResolveAssemblyReference.cache
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.Form1.resources
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.Resources.resources
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.vbproj.GenerateResource.Cache
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.vbproj.CoreCompileInputs.cache
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.exe
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.xml
+F:\visual studio prog\SandersS_Lab6\SandersS_Lab6\obj\Debug\SandersS_Lab6.pdb

@@ -1,0 +1,11 @@
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\bin\Debug\SandersS_Pgm1.exe.config
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\bin\Debug\SandersS_Pgm1.exe
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\bin\Debug\SandersS_Pgm1.pdb
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\bin\Debug\SandersS_Pgm1.xml
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\obj\Debug\SandersS_Pgm1.vbprojResolveAssemblyReference.cache
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\obj\Debug\SandersS_Pgm1.Form1.resources
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\obj\Debug\SandersS_Pgm1.Resources.resources
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\obj\Debug\SandersS_Pgm1.vbproj.GenerateResource.Cache
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\obj\Debug\SandersS_Pgm1.exe
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\obj\Debug\SandersS_Pgm1.xml
+D:\visual studio prog\SandersS_Pgm1\SandersS_Pgm1\obj\Debug\SandersS_Pgm1.pdb

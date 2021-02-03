@@ -1,0 +1,11 @@
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\bin\Debug\SandersS_Lab2B.exe.config
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\bin\Debug\SandersS_Lab2B.exe
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\bin\Debug\SandersS_Lab2B.pdb
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\bin\Debug\SandersS_Lab2B.xml
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\obj\Debug\SandersS_Lab2B.vbprojResolveAssemblyReference.cache
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\obj\Debug\SandersS_Lab2B.Form1.resources
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\obj\Debug\SandersS_Lab2B.Resources.resources
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\obj\Debug\SandersS_Lab2B.vbproj.GenerateResource.Cache
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\obj\Debug\SandersS_Lab2B.exe
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\obj\Debug\SandersS_Lab2B.xml
+D:\visual studio prog\SandersS_Lab2B\SandersS_Lab2B\obj\Debug\SandersS_Lab2B.pdb

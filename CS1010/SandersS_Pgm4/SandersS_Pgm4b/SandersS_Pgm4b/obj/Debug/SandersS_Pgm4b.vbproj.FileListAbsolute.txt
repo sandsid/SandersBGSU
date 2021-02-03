@@ -1,0 +1,12 @@
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\bin\Debug\SandersS_Pgm4b.exe.config
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\bin\Debug\SandersS_Pgm4b.exe
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\bin\Debug\SandersS_Pgm4b.pdb
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\bin\Debug\SandersS_Pgm4b.xml
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.vbprojResolveAssemblyReference.cache
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.Form1.resources
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.Resources.resources
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.vbproj.GenerateResource.Cache
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.vbproj.CoreCompileInputs.cache
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.exe
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.xml
+F:\visual studio prog\SandersS_Pgm4\SandersS_Pgm4b\SandersS_Pgm4b\obj\Debug\SandersS_Pgm4b.pdb

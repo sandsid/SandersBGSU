@@ -1,0 +1,11 @@
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\bin\Debug\SandersS_Pgm2b.exe.config
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\bin\Debug\SandersS_Pgm2b.exe
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\bin\Debug\SandersS_Pgm2b.pdb
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\bin\Debug\SandersS_Pgm2b.xml
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\obj\Debug\SandersS_Pgm2b.vbprojResolveAssemblyReference.cache
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\obj\Debug\SandersS_Pgm2b.Form1.resources
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\obj\Debug\SandersS_Pgm2b.Resources.resources
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\obj\Debug\SandersS_Pgm2b.vbproj.GenerateResource.Cache
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\obj\Debug\SandersS_Pgm2b.exe
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\obj\Debug\SandersS_Pgm2b.xml
+D:\visual studio prog\SandersS_Pgm2b\SandersS_Pgm2b\obj\Debug\SandersS_Pgm2b.pdb

@@ -1,0 +1,23 @@
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\bin\Debug\Lab7.exe.config
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\bin\Debug\Lab7.exe
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\bin\Debug\Lab7.pdb
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\bin\Debug\Lab7.xml
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\obj\Debug\Lab7.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\obj\Debug\Lab7.Form1.resources
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\obj\Debug\Lab7.Resources.resources
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\obj\Debug\Lab7.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\obj\Debug\Lab7.exe
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\obj\Debug\Lab7.xml
+\\Mac\Home\Desktop\CS1010 VB 2017\03 Labs\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\bin\Debug\Lab7.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.vbprojResolveAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.vbproj.GenerateResource.Cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.vbproj.CoreCompileInputs.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab7\Lab7\obj\Debug\Lab7.pdb

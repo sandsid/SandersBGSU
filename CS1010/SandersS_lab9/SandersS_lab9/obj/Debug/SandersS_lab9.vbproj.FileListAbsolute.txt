@@ -1,0 +1,12 @@
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\bin\Debug\SandersS_lab9.exe.config
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\bin\Debug\SandersS_lab9.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\bin\Debug\SandersS_lab9.pdb
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\bin\Debug\SandersS_lab9.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.vbprojResolveAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.vbproj.GenerateResource.Cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.vbproj.CoreCompileInputs.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_lab9\SandersS_lab9\obj\Debug\SandersS_lab9.pdb

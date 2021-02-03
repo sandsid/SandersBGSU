@@ -1,0 +1,5 @@
+﻿  q3.cpp
+c:\users\sidney sanders\desktop\visual studios c++\cs2020-jc\q3\q3\q3.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sidney sanders\desktop\visual studios c++\cs2020-jc\q3\q3\q3.cpp(111): warning C4805: '==': unsafe mix of type 'FaceCards' and type 'bool' in operation
+  q3.vcxproj -> C:\Users\Sidney Sanders\Desktop\Visual Studios C++\CS2020-jc\q3\Debug\q3.exe
+  q3.vcxproj -> C:\Users\Sidney Sanders\Desktop\Visual Studios C++\CS2020-jc\q3\Debug\q3.pdb (Partial PDB)

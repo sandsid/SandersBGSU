@@ -1,0 +1,16 @@
+           City Population Report
+               Sidney Sanders
+City Name      Population (millions)    
+---------------------------------------
+Chicago                2.7                 
+San Diego              1.4                 
+San Antonio            1.5                 
+Los Angeles            3.9                 
+Philadelphia           1.5                 
+New York               8.5                 
+Dallas                 1.3                 
+Phoenix                1.6                 
+Houston                2.3                 
+The totl Number of Cities:    9
+The Total Population for all cities:   24.7
+The largest Population: 8.5 In New York

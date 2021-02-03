@@ -1,0 +1,12 @@
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\bin\Debug\SandersS_Lab3_Warmup.exe.config
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\bin\Debug\SandersS_Lab3_Warmup.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\bin\Debug\SandersS_Lab3_Warmup.pdb
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\bin\Debug\SandersS_Lab3_Warmup.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.vbprojResolveAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.vbproj.GenerateResource.Cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.vbproj.CoreCompileInputs.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Lab3_Warmup\SandersS_Lab3_Warmup\obj\Debug\SandersS_Lab3_Warmup.pdb

@@ -1,0 +1,18 @@
+            BGSU Bowling Tournament Report
+             Prepared by:  Sidney Sanders
+    Name            Total Score         Average score       
+    -------------------------------------------------
+    Korte              536                   178  
+    Artimus            672                   224  
+    Morris             825                   275  
+    Dade               796                   265  
+    Rush               555                   185  
+    Gustar             740                   246  
+    Fenton             684                   228  
+    Sands              665                   221  
+    
+    Numbers of Bowlers    8
+    Average total score    684
+    
+    Tournament Winner:    Morris
+    Winners total score:    825

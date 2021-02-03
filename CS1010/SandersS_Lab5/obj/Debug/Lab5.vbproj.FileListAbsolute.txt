@@ -1,0 +1,23 @@
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\bin\Debug\Lab5.exe
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\bin\Debug\Lab5.pdb
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\bin\Debug\Lab5.xml
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\obj\Debug\Lab5.vbprojResolveAssemblyReference.cache
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\obj\Debug\Lab5.Resources.resources
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\obj\Debug\Lab5.vbproj.GenerateResource.Cache
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\obj\Debug\Lab5.exe
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\obj\Debug\Lab5.xml
+C:\Users\rex\Desktop\CS1010 VB 2017\03 Labs\Lab5\obj\Debug\Lab5.pdb
+F:\visual studio prog\SandersS_Lab5\bin\Debug\Lab5.exe.config
+F:\visual studio prog\SandersS_Lab5\bin\Debug\Lab5.exe
+F:\visual studio prog\SandersS_Lab5\bin\Debug\Lab5.pdb
+F:\visual studio prog\SandersS_Lab5\bin\Debug\Lab5.xml
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.vbprojResolveAssemblyReference.cache
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.Form1.resources
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.Resources.resources
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.vbproj.GenerateResource.Cache
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.vbproj.CoreCompileInputs.cache
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.exe
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.xml
+F:\visual studio prog\SandersS_Lab5\obj\Debug\Lab5.pdb

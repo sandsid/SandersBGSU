@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\wdcraig\desktop\in class 313\in class 313\source.cpp(41): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  IN Class 313.vcxproj -> C:\Users\wdcraig\Desktop\IN Class 313\Debug\IN Class 313.exe
+  IN Class 313.vcxproj -> C:\Users\wdcraig\Desktop\IN Class 313\Debug\IN Class 313.pdb (Partial PDB)

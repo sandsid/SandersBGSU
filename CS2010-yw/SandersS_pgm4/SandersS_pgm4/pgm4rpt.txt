@@ -1,0 +1,22 @@
+					World Internet Usage Report
+						 Sidney Sanders 
+ Area           Population                2000             Current             (% Pop)            Growth %
+------------------------------------------------------------------------------------------------------------------
+Africa          1013779050             4514400           110931700                10.9              2357.3
+Asia          3834792852           114304000           825094396                21.5               621.8
+Australia            34700201             7620480            21263990                61.3               179.0
+Europe           813319511           105096093           475069448                58.4               352.0
+Middle_East           212336924             3284800            63240946                29.8              1825.3
+North_America           344124450           108096800           266244500                77.4               146.3
+South_America           592556972            18068919           204689836                34.5              1032.8
+------------------------------------------------------------------------------------------------------------------
+Total/Avg%          6845609960           360985492          1966534816                42.0               930.7
+
+Area with highest population: Asia
+population: 3834792852
+Area with most internet users: Asia
+Number of users:            825094396
+Area with highest Internet penetration: North_America
+Penetration %: 77.4%
+Area with highest Internet usage growth: Africa
+Growth %:  2357.3%

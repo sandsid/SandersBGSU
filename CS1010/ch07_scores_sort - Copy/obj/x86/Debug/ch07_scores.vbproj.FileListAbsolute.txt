@@ -1,0 +1,85 @@
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\bin\Debug\ch07_scores.exe
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\bin\Debug\ch07_scores.pdb
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\bin\Debug\ch07_scores.xml
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\ch07_scores.exe
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\ch07_scores.xml
+C:\Documents and Settings\rex\Desktop\CS1010 VB\00 Sample Program VB2010\ch07_scores\obj\x86\Debug\ch07_scores.pdb
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores\obj\x86\Debug\ch07_scores.exe
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores\obj\x86\Debug\ch07_scores.xml
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores\obj\x86\Debug\ch07_scores.pdb
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.exe
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.xml
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.pdb
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\bin\Debug\ch07_scores.exe
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\bin\Debug\ch07_scores.pdb
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\bin\Debug\ch07_scores.xml
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.vbprojResolveAssemblyReference.cache
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Users\rex\Desktop\CS1010 VB Projects\00 CS1010 VB 2010\00 Sample Program VB2015\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.vbproj.GenerateResource.Cache
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\bin\Debug\ch07_scores.exe
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\bin\Debug\ch07_scores.pdb
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\bin\Debug\ch07_scores.xml
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.vbprojResolveAssemblyReference.cache
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.vbproj.GenerateResource.Cache
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.exe
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.xml
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_file\obj\x86\Debug\ch07_scores.pdb
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\bin\Debug\ch07_scores.exe
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\bin\Debug\ch07_scores.pdb
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\bin\Debug\ch07_scores.xml
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\obj\x86\Debug\ch07_scores.vbprojResolveAssemblyReference.cache
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\obj\x86\Debug\ch07_scores.vbproj.GenerateResource.Cache
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\obj\x86\Debug\ch07_scores.exe
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\obj\x86\Debug\ch07_scores.xml
+C:\Users\Classroom\Desktop\ch07_scores_stu - Copy\obj\x86\Debug\ch07_scores.pdb
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\bin\Debug\ch07_scores.exe
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\bin\Debug\ch07_scores.pdb
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\bin\Debug\ch07_scores.xml
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\obj\x86\Debug\ch07_scores.vbprojResolveAssemblyReference.cache
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\obj\x86\Debug\ch07_scores.vbproj.GenerateResource.Cache
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\obj\x86\Debug\ch07_scores.exe
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\obj\x86\Debug\ch07_scores.xml
+C:\Users\Classroom\Desktop\ch07_scores_stu1 - Copy\obj\x86\Debug\ch07_scores.pdb
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\bin\Debug\ch07_scores.exe
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\bin\Debug\ch07_scores.pdb
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\bin\Debug\ch07_scores.xml
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\obj\x86\Debug\ch07_scores.vbprojResolveAssemblyReference.cache
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\obj\x86\Debug\ch07_scores.vbproj.GenerateResource.Cache
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\obj\x86\Debug\ch07_scores.exe
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\obj\x86\Debug\ch07_scores.xml
+C:\Users\rex\Desktop\CS1010 VB 2017\00 Sample Programs 2017\ch07 Arrays\ch07_scores_search\obj\x86\Debug\ch07_scores.pdb
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\bin\Debug\ch07_scores.exe
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\bin\Debug\ch07_scores.pdb
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\bin\Debug\ch07_scores.xml
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.vbprojResolveAssemblyReference.cache
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.vbproj.GenerateResource.Cache
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.exe
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.xml
+C:\Users\Classroom\Desktop\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.pdb
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\bin\Debug\ch07_scores.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\bin\Debug\ch07_scores.pdb
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\bin\Debug\ch07_scores.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.vbprojResolveAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.vbproj.GenerateResource.Cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.vbproj.CoreCompileInputs.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\ch07_scores_sort - Copy\obj\x86\Debug\ch07_scores.pdb

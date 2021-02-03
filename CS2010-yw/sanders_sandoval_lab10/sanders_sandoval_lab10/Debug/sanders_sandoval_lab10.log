@@ -1,0 +1,5 @@
+﻿  sanders_sandoval_lab10.cpp
+sanders_sandoval_lab10.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sidney sanders\desktop\visual studios c++\sanders_sandoval_lab10\sanders_sandoval_lab10\sanders_sandoval_lab10.cpp(32): warning C4700: uninitialized local variable 'num' used
+c:\users\sidney sanders\desktop\visual studios c++\sanders_sandoval_lab10\sanders_sandoval_lab10\sanders_sandoval_lab10.cpp(47): warning C4700: uninitialized local variable 'rowNum' used
+  sanders_sandoval_lab10.vcxproj -> C:\Users\Sidney Sanders\Desktop\Visual Studios C++\sanders_sandoval_lab10\Debug\sanders_sandoval_lab10.exe

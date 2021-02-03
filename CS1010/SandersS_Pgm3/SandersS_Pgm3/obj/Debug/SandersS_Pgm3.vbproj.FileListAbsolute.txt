@@ -1,0 +1,12 @@
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\bin\Debug\SandersS_Pgm3.exe.config
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\bin\Debug\SandersS_Pgm3.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\bin\Debug\SandersS_Pgm3.pdb
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\bin\Debug\SandersS_Pgm3.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.vbprojResolveAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.vbproj.GenerateResource.Cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.vbproj.CoreCompileInputs.cache
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.exe
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.xml
+C:\Users\Sidney Sanders\Desktop\Visual Studio\SandersS_Pgm3\SandersS_Pgm3\obj\Debug\SandersS_Pgm3.pdb
