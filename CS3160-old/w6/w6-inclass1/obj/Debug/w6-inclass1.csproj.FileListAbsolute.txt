@@ -1,0 +1,9 @@
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\bin\Debug\w6-inclass1.exe.config
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\bin\Debug\w6-inclass1.exe
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\bin\Debug\w6-inclass1.pdb
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\obj\Debug\w6-inclass1.csprojAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\obj\Debug\w6_inclass1.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\obj\Debug\w6_inclass1.Properties.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\obj\Debug\w6-inclass1.csproj.GenerateResource.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\obj\Debug\w6-inclass1.exe
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass1\obj\Debug\w6-inclass1.pdb

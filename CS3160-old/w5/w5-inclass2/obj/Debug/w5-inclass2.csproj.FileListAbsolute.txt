@@ -1,0 +1,9 @@
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\bin\Debug\w5-inclass2.exe.config
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\bin\Debug\w5-inclass2.exe
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\bin\Debug\w5-inclass2.pdb
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\obj\Debug\w5-inclass2.csprojAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\obj\Debug\w5_inclass2.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\obj\Debug\w5_inclass2.Properties.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\obj\Debug\w5-inclass2.csproj.GenerateResource.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\obj\Debug\w5-inclass2.exe
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w5\w5-inclass2\obj\Debug\w5-inclass2.pdb

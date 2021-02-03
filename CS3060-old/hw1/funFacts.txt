@@ -1,0 +1,13 @@
+Here are some interesting facts about Ruby:
+
+Ruby came into existence as Yukihiro Matsumoto, wanted a scripting language more powerful than Perl, and more object oriented than Python.
+The name Ruby for the language got originated in an online chat session between Matsumoto and Keiju Ishitsuka on February 24, 1993 before even any code was written in the language. 
+Initially two names were suggested ie Coral or Ruby. The name Ruby was later chosen by Matsumoto in an email to Ishitsuka.
+Ruby is often confused with Ruby on Rails, which is a server-side framework written in Ruby under the MIT License for implementing web applications.
+Ruby’s libraries and packages are managed through central library management system called Rubygems.
+Ruby supports multiple programming paradigms, such as procedural programming, object-oriented programming, as well as functional programming, which makes it unique in the programming world.
+Ruby Interpreter (Interactive Ruby/irb) can be used as a calculator.
+Ruby has built in support for Rational numbers and Complex numbers, which helps in solving complex mathematical problems.
+Ruby allows code embedding. For example, Ruby can be embedded into Hypertext Markup Language (HTML).
+Ruby users can take the advantage of Dynamic typing and Duck typing.
+Ruby understands and uses “nil” instead of “null”.

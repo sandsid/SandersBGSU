@@ -1,0 +1,9 @@
+app.exe:  main.cs customer.dll
+    csc /t:exe /out:app.exe main.cs /r:customer.dll
+
+customer.dll:   customer.cs
+    csc /t:library  /out:customer.dll customer.cs
+
+clean:
+    del *.dll
+    del *.exe

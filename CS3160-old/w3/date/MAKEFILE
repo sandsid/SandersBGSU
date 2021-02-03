@@ -1,0 +1,5 @@
+app.exe: main.cs cdate.cs
+	csc /t:exe	/out:app.exe main.cs date.cs
+
+clean:
+	del *.exe

@@ -1,0 +1,145 @@
+Script started on Thu Sep 24 23:32:48 2020
+0;sandsid@bglinux1:~/cs3080rk?1034h~/cs3080rk$ }K}6PKcda$HOME/cs3080rk
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ ls
+HW1shortKEY.cpp	 SandersHW2.txt	 SandersHW2short.cpp  0m01;32ma.out0m  01;36mlib0m
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ cat SandersHW2short.cpp
+/*******************************************************
+//	  HW2 short
+//	  use of fork and pipe
+//	  create a parent and two children
+//	  use input from user to find a sum
+//
+
+*/
+
+
+#include <sys/types.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <iostream>
+#include <cstdlib>
+#include <array>
+
+
+using namespace std;
+
+
+//read from the pipe
+
+void read_pipe (int file)
+{
+	/*
+	FILE * stream;
+	int c;
+	stream = fdopen (file, "r");
+	while ((c = fgetc(stream)) != EOF)
+	*/
+}
+
+
+//write to the pipe
+
+void write_pipe (int file)
+{
+
+
+
+}
+
+
+//main arg with forks
+
+int main(int argc, char* argv[])
+{
+
+	int pid;
+	int num1=0, num2=0, num3=0;
+	int leftC, leftPID, rightC, rightPID, pNum;
+	cin >> num1;
+	cin >> num2;
+	cin >> num3;
+	int sum = num1+num2+num3;
+	cout << endl << endl;
+
+	int pipe_fd[2];
+	char buffer[20];
+	pipe(pipe_fd);
+
+	pid = getpid();
+
+	int randNum = rand();
+	//cout << rand()
+
+	pNum = randNum + num1;
+
+	for (int i=0; i<1; i++)
+	{
+		leftC = fork();
+		leftPID = getpid();
+
+		if (leftC == 0)
+		{
+			//complete left fork cout
+			//add num 2 to pipe number
+			cout << "C " << leftPID << " " << pid << " " << num2 << endl;
+			//break left fork
+			//add num2 and pipe sum back to pipe
+			//break;
+			leftC = -1;
+		}
+		if (leftC < 0)
+		{
+
+			rightC = fork();
+			rightPID = getpid();
+
+			if (rightC == 0)
+			{
+				//complete right cout
+				cout << "C " << rightPID << " " << pid << " " << num3 << endl;
+				//break right fork
+				//break;
+				rightC = -1;
+			}
+			if (rightC < 0)
+			{
+				//parent cout and sum
+				//must subtract the random number from the pipe number
+				cout << "P "  << sum << endl;
+
+			}
+		}
+
+
+	}
+
+}
+
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ g++ SandersHW2short.cpp
+01mKSandersHW2short.cpp:mK In function '01mKint main(int, char**)mK':
+01mKSandersHW2short.cpp:53:40:mK 01;35mKwarning: mKvariable '01mKpNummK' set but not used [01;35mK-Wunused-but-set-variablemK]
+  int leftC, leftPID, rightC, rightPID, 01;35mKpNummK;
+					01;35mK^~~~mK
+01mKSandersHW2short.cpp:61:7:mK 01;35mKwarning: mKunused variable '01mKbuffermK' [01;35mK-Wunused-variablemK]
+  char 01;35mKbuffermK[20];
+       01;35mK^~~~~~mK
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ ./a.out 12345
+23 12 45
+
+
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ C 45530 45522 12
+C 45531 45522 45
+P 80
+
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ ./a.out 23456
+11 34 25
+
+
+C 61872 50917 34
+0;sandsid@bglinux1:~/cs3080rkC 61873 50917 25
+P 70
+~/cs3080rk$ exit
+exit
+
+Script done on Thu Sep 24 23:35:26 2020

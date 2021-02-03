@@ -1,0 +1,13 @@
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\bin\Debug\netcoreapp3.1\w6-inclass2.deps.json
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\bin\Debug\netcoreapp3.1\w6-inclass2.dll
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\bin\Debug\netcoreapp3.1\w6-inclass2.pdb
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2.csprojAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\UserControl1.g.cs
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2_MarkupCompile.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2_MarkupCompile.lref
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\UserControl1.baml
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2.g.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2.AssemblyInfoInputs.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2.AssemblyInfo.cs
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2.dll
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\w6\w6-inclass2\obj\Debug\netcoreapp3.1\w6-inclass2.pdb

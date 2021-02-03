@@ -1,0 +1,9 @@
+app.exe:    app.cs  player.dll
+    csc /t:exe /out:app.exe app.cs /r:player.dll
+
+player.dll:   player.cs
+    csc /t:library  /out:player.dll player.cs
+
+clean:
+    del *.dll
+    del *.exe

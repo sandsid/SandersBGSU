@@ -1,0 +1,20 @@
+C:\Users\Lian\Desktop\CS3160\lab3\bin\Debug\lab3.exe.config
+C:\Users\Lian\Desktop\CS3160\lab3\bin\Debug\lab3.exe
+C:\Users\Lian\Desktop\CS3160\lab3\bin\Debug\lab3.pdb
+C:\Users\Lian\Desktop\CS3160\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Lian\Desktop\CS3160\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\Lian\Desktop\CS3160\lab3\obj\Debug\lab3.EventForm.resources
+C:\Users\Lian\Desktop\CS3160\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Lian\Desktop\CS3160\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Lian\Desktop\CS3160\lab3\obj\Debug\lab3.exe
+C:\Users\Lian\Desktop\CS3160\lab3\obj\Debug\lab3.pdb
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\bin\Debug\lab3.exe.config
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\bin\Debug\lab3.exe
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\bin\Debug\lab3.pdb
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\obj\Debug\lab3.EventForm.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\obj\Debug\lab3.exe
+C:\Users\Sidney Sanders\Desktop\Classes\CS3160\lab3\obj\Debug\lab3.pdb

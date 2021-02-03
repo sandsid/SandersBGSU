@@ -1,0 +1,4 @@
+this is a story
+about a python coding man
+who wished he used ruby
+put also used haskell

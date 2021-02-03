@@ -1,0 +1,5 @@
+app.exe: main.cs customer.cs
+	csc /t:exe	/out:app.exe main.cs customer.cs
+
+clean:
+	del *.exe

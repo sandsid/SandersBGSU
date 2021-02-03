@@ -1,0 +1,9 @@
+main.exe:    main.cs  date.dll
+    csc /t:exe /out:main.exe main.cs /r:date.dll
+
+date.dll:   date.cs
+    csc /t:library  /out:date.dll date.cs
+
+clean:
+    del *.dll
+    del *.exe

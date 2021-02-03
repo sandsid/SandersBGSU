@@ -1,0 +1,142 @@
+Script started on Thu Oct 29 23:45:32 2020
+0;sandsid@bglinux1:~/cs3080rk?1034h~/cs3080rk$ ipcs
+
+------ Message Queues --------
+key	   msqid      owner	 perms	    used-bytes	 messages
+
+------ Shared Memory Segments --------
+key	   shmid      owner	 perms	    bytes      nattch	  status
+
+------ Semaphore Arrays --------
+key	   semid      owner	 perms	    nsems
+0x0000169e 1114114    aurigem	 611	    2
+0x00000031 1114115    sandsid	 611	    1
+0x00000000 655368     stobar	 611	    2
+0x00000034 1114124    sandsid	 611	    1
+0x00000032 1114126    sandsid	 611	    1
+0x00000000 655389     stobar	 611	    2
+0x00000000 655390     stobar	 611	    2
+0x00000000 655391     stobar	 611	    2
+0x0000007b 753711     bgahrin	 611	    2
+0x00000378 720946     dwortha	 611	    1
+
+~/cs3080rk$gpcdK$HOME/cs3080rkK/home/cs/kresman/3080/semaphore/semaphore.o
+~/cs3080rk$gpwdK$HOME/cs3080rkK/home/cs/kresman/3080/semaphore/semaphore.o
+/home/05/sandsid/cs3080rk
+~/cs3080rk$gpcatSSandersHW5.cpp/home/cs/kresman/3080/semaphore/semaphore.o
+#include <stdio.h>
+#include <iostream>
+#include <stdlib.h>
+#include <unistd.h>
+#include <errno.h>
+#include "/home/cs/kresman/3080/semaphore/semaphore.h"
+
+using namespace std;
+
+
+int main (int argc,char *argv[]) {
+
+    int semZero, semOne;
+    int pid;
+    int rand1,rand2;
+    char fn = *argv[4];
+
+	if (argc < 1) {
+		perror("Invalid arg amount.");
+		exit (1);
+	}
+	//generating random numbers
+    srand(123);
+    rand1 = rand() % 100;
+    rand2 = rand() % 100;
+
+
+//  TWO semaphores, 0 and 1, for F and N
+	Semaphore semaphore(*argv[3], 1);
+
+//	intialize semaphores and set values to random number
+	semaphore.Init(0, rand1);
+	semaphore.Init(1, rand2);
+
+//  fork process to start the first or next printing
+	pid = fork ();
+
+
+
+	if (pid == 0) {
+	if (argv[4] == "F")
+	{
+	    //read F semaphore then the second one
+	    semaphore.Signal(0);
+	    semZero = semaphore.ReadValue(0);
+	    cout<< fn << "   " << getpid() <<  "   " <<	 semZero << endl;
+	    semaphore.Signal(1);
+	    semOne = semaphore.ReadValue(0);
+	    cout<< fn << "   " << getpid() <<  "   " << semOne << endl;
+	}
+	else
+	{
+	    //read N semaphore then the first one
+	    semaphore.Signal(1);
+	    semOne = semaphore.ReadValue(0);
+	    cout<< fn << "   " << getpid() <<  "   " << semOne << endl;
+	    semaphore.Signal(0);
+	    semZero = semaphore.ReadValue(0);
+	    cout<< fn << "   " << getpid() <<  "   " << semZero << endl;
+	}
+    }
+	else {
+
+
+		//Remove ALL the (two) semaphores
+		sleep(5);
+
+		semaphore.Destroy();
+
+	}
+}
+~/cs3080rk$gg++iSandersHW5.cpp1/home/cs/kresman/3080/semaphore/semaphore.o
+01mKSandersHW5.cpp:mK In function '01mKint main(int, char**)mK':
+01mKSandersHW5.cpp:41:24:mK 01;35mKwarning: mKcomparison with string literal results in unspecified behavior [01;35mK-WaddressmK]
+	 if (argv[4] == 01;35mK"F"mK)
+			01;35mK^~~mK
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ ./a.out SandersHW5 10 123 F
+Semaphore creation problem
+: Permission denied
+The 1 semaphore initialization problem
+Invalid argument
+~/cs3080rk$gK./a.outuSandersHW5W1014562NkFesman/3080/semaphore/semaphore.oo
+Semaphore creation problem
+: Permission denied
+The 1 semaphore initialization problem
+Invalid argument
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ ./a.out SandersHW5 10 234 F
+Semaphore creation problem
+: Permission denied
+The 1 semaphore initialization problem
+Invalid argument
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ ipcs
+
+------ Message Queues --------
+key	   msqid      owner	 perms	    used-bytes	 messages
+
+------ Shared Memory Segments --------
+key	   shmid      owner	 perms	    bytes      nattch	  status
+
+------ Semaphore Arrays --------
+key	   semid      owner	 perms	    nsems
+0x0000169e 1114114    aurigem	 611	    2
+0x00000031 1114115    sandsid	 611	    1
+0x00000000 655368     stobar	 611	    2
+0x00000034 1114124    sandsid	 611	    1
+0x00000032 1114126    sandsid	 611	    1
+0x00000000 655389     stobar	 611	    2
+0x00000000 655390     stobar	 611	    2
+0x00000000 655391     stobar	 611	    2
+0x0000007b 753711     bgahrin	 611	    2
+0x00000378 720946     dwortha	 611	    1
+
+0;sandsid@bglinux1:~/cs3080rk~/cs3080rk$ exit
+exit
+
+Script done on Thu Oct 29 23:47:13 2020

@@ -1,0 +1,28 @@
+﻿  MyBag.cpp
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\mybag.cpp(12): error C2995: 'MyBag<ItemType>::MyBag(void)': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\mybag.h(11): note: see declaration of 'MyBag<ItemType>::MyBag'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\mybag.cpp(19): error C2995: 'bool MyBag<ItemType>::removeAll(const ItemType &)': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\mybag.h(12): note: see declaration of 'MyBag<ItemType>::removeAll'
+  Assignment1.cpp
+  ArrayBag.cpp
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(8): error C2995: 'ArrayBag<ItemType>::ArrayBag(void)': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(27): note: see declaration of 'ArrayBag<ItemType>::ArrayBag'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(18): error C2995: 'int ArrayBag<ItemType>::getCurrentSize(void) const': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(28): note: see declaration of 'ArrayBag<ItemType>::getCurrentSize'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(29): error C2995: 'bool ArrayBag<ItemType>::isEmpty(void) const': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(29): note: see declaration of 'ArrayBag<ItemType>::isEmpty'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(49): error C2995: 'bool ArrayBag<ItemType>::add(const ItemType &)': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(30): note: see declaration of 'ArrayBag<ItemType>::add'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(78): error C2995: 'int ArrayBag<ItemType>::getIndexOf(const ItemType &) const': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(24): note: see declaration of 'ArrayBag<ItemType>::getIndexOf'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(97): error C2995: 'bool ArrayBag<ItemType>::remove(const ItemType &)': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(31): note: see declaration of 'ArrayBag<ItemType>::remove'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(107): error C2995: 'void ArrayBag<ItemType>::clear(void)': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(32): note: see declaration of 'ArrayBag<ItemType>::clear'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(129): error C2995: 'bool ArrayBag<ItemType>::contains(const ItemType &) const': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(33): note: see declaration of 'ArrayBag<ItemType>::contains'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(150): error C2995: 'int ArrayBag<ItemType>::getFrequencyOf(const ItemType &) const': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(34): note: see declaration of 'ArrayBag<ItemType>::getFrequencyOf'
+c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.cpp(164): error C2995: 'std::vector<ItemType,std::allocator<_Ty>> ArrayBag<ItemType>::toVector(void) const': function template has already been defined
+  c:\users\sidney sanders\desktop\classes\cs 3350\sidneysanders_cs3350_assignment1\sidneysanders_cs3350_assignment1\arraybag.h(35): note: see declaration of 'ArrayBag<ItemType>::toVector'
+  Generating Code...

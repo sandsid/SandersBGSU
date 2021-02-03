@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "w6-inclass2/1.0.0": {
+        "runtime": {
+          "w6-inclass2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w6-inclass2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿  test_get_language_from_filename.cpp
+  test_code_analyzer.cpp
+  get_language_from_filename.cpp
+  code_analyzer.cpp
+  Generating Code...
+test_get_language_from_filename.obj : error LNK2005: _main already defined in test_code_analyzer.obj
+C:\Users\Sidney Sanders\Desktop\Classes\CS3540\project-3-tdd\Debug\project-3-tdd.exe : fatal error LNK1169: one or more multiply defined symbols found
