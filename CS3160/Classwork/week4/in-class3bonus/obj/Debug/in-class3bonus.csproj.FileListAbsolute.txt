@@ -1,0 +1,10 @@
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\bin\Debug\in-class3bonus.exe.config
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\bin\Debug\in-class3bonus.exe
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\bin\Debug\in-class3bonus.pdb
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\obj\Debug\in-class3bonus.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\obj\Debug\in_class3bonus.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\obj\Debug\in_class3bonus.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\obj\Debug\in-class3bonus.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\obj\Debug\in-class3bonus.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\obj\Debug\in-class3bonus.exe
+D:\SandersBGSU\CS3160\Classwork\week4\in-class3bonus\obj\Debug\in-class3bonus.pdb
