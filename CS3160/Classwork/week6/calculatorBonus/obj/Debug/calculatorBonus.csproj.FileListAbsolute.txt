@@ -1,0 +1,10 @@
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\bin\Debug\calculatorBonus.exe.config
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\bin\Debug\calculatorBonus.exe
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\bin\Debug\calculatorBonus.pdb
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\obj\Debug\calculatorBonus.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\obj\Debug\calculatorBonus.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\obj\Debug\calculatorBonus.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\obj\Debug\calculatorBonus.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\obj\Debug\calculatorBonus.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\obj\Debug\calculatorBonus.exe
+D:\SandersBGSU\CS3160\Classwork\week6\calculatorBonus\obj\Debug\calculatorBonus.pdb

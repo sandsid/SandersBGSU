@@ -1,0 +1,10 @@
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\bin\Debug\week5-inclass3-errorHandling.exe.config
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\bin\Debug\week5-inclass3-errorHandling.exe
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\bin\Debug\week5-inclass3-errorHandling.pdb
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\obj\Debug\week5-inclass3-errorHandling.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\obj\Debug\week5_inclass3_errorHandling.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\obj\Debug\week5_inclass3_errorHandling.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\obj\Debug\week5-inclass3-errorHandling.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\obj\Debug\week5-inclass3-errorHandling.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\obj\Debug\week5-inclass3-errorHandling.exe
+D:\SandersBGSU\CS3160\Classwork\week5\week5-inclass3-errorHandling\obj\Debug\week5-inclass3-errorHandling.pdb
