@@ -16,3 +16,13 @@ C:\Users\Lian\Desktop\lab2\obj\Debug\lab2.Properties.Resources.resources
 C:\Users\Lian\Desktop\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
 C:\Users\Lian\Desktop\lab2\obj\Debug\lab2.exe
 C:\Users\Lian\Desktop\lab2\obj\Debug\lab2.pdb
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\bin\Debug\lab2.exe
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\bin\Debug\lab2.pdb
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\obj\Debug\lab2.exe
+D:\SandersBGSU\CS3160-old\Sanders-Sandoval-Lab2\lab2\lab2\obj\Debug\lab2.pdb
