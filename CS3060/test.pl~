@@ -1,0 +1,2 @@
+myRule([H|T], T) :- H > 0.
+myRule([H|T], [H|T]) :- H =< 0.
