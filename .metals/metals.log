@@ -1,0 +1,162 @@
+[0m2021.03.09 18:20:00 INFO  Started: Metals version 0.10.0 in workspace 'D:\SandersBGSU' for client vscode 1.54.1.[0m
+[0m2021.03.09 18:20:00 INFO  time: initialize in 0.43s[0m
+[0m2021.03.09 18:20:00 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.09 18:20:00 WARN  no build tool detected in workspace 'D:\SandersBGSU'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.09 18:20:00 WARN  no build target for: D:\SandersBGSU\CS3060\GW\a8\task1.scala[0m
+[0m2021.03.09 18:20:03 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+
+
+
+[0m2021.03.09 18:20:05 INFO  time: code lens generation in 3.83s[0m
+
+
+
+
+
+
+
+
+
+
+
+[0m2021.03.09 18:50:27 WARN  no build target for: C:\Users\sands\OneDrive - Bowling Green State University\Documents\sp21-cs3060-hw\hw5\task1.scala[0m
+
+
+
+
+Mar 09, 2021 6:50:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+
+
+Mar 09, 2021 6:50:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+
+
+
+[0m2021.03.09 18:50:33 WARN  no build target for: C:\Users\sands\OneDrive - Bowling Green State University\Documents\sp21-cs3060-hw\hw5\task1.scala[0m
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+
+Mar 09, 2021 7:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+
+[0m2021.03.09 19:11:22 WARN  no build target for: D:\SandersBGSU\CS3060\GW\a8\task1.scala[0m
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+Mar 09, 2021 7:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+[0m2021.03.09 19:11:30 WARN  no build tool detected in workspace 'D:\SandersBGSU'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.09 19:26:45 INFO  shutting down Metals[0m
+[0m2021.03.11 18:12:33 INFO  Started: Metals version 0.10.0 in workspace 'D:\SandersBGSU' for client vscode 1.54.1.[0m
+[0m2021.03.11 18:12:34 INFO  time: initialize in 0.41s[0m
+[0m2021.03.11 18:12:34 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.11 18:12:34 WARN  no build tool detected in workspace 'D:\SandersBGSU'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.11 18:12:34 WARN  no build target for: D:\SandersBGSU\CS3060\GW\a8\task1.scala[0m
+[0m2021.03.11 18:12:37 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+Mar 11, 2021 6:12:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+[0m2021.03.11 18:12:39 WARN  no build target for: C:\Users\sands\Documents\cs3060\test.scala[0m
+
+
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+[0m2021.03.11 18:12:39 INFO  time: code lens generation in 4s[0m
+
+
+
+[0m2021.03.11 18:12:43 WARN  no build target for: C:\Users\sands\Documents\cs3060\test.scala[0m
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+[0m2021.03.11 18:27:54 WARN  no build target for: D:\SandersBGSU\CS3060\GW\a8\task1.scala[0m
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}

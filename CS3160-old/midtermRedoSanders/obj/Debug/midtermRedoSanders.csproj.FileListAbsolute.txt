@@ -1,0 +1,11 @@
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\bin\Debug\midtermRedoSanders.exe.config
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\bin\Debug\midtermRedoSanders.exe
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\bin\Debug\midtermRedoSanders.pdb
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.Form1.resources
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.Form2.resources
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.Properties.Resources.resources
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.exe
+D:\SandersBGSU\CS3160-old\midtermRedoSanders\obj\Debug\midtermRedoSanders.pdb

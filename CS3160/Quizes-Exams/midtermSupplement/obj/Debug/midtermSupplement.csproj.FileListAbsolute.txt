@@ -1,0 +1,11 @@
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\bin\Debug\midtermSupplement.exe.config
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\bin\Debug\midtermSupplement.exe
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\bin\Debug\midtermSupplement.pdb
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.Form1.resources
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.Form2.resources
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.exe
+D:\SandersBGSU\CS3160\Quizes-Exams\midtermSupplement\obj\Debug\midtermSupplement.pdb
