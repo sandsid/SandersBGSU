@@ -1,0 +1,11 @@
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\bin\Debug\assingment3Sanders.exe.config
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\bin\Debug\assingment3Sanders.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\bin\Debug\assingment3Sanders.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.Form1.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.Form2.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_3\assingment3Sanders\obj\Debug\assingment3Sanders.pdb

@@ -100,7 +100,7 @@ namespace lab3
         // Loads EventForm with defaults and calendar constraints 
         private void EventForm_Load(object sender, EventArgs e)
         {
-            DateTime max_date = new DateTime(2020, 12, 31, 11, 59, 59);
+            DateTime max_date = new DateTime(2023, 12, 31, 11, 59, 59);
             mthCal.MinDate = DateTime.Today;
             mthCal.SelectionRange.Start = mthCal.TodayDate;
             mthCal.SelectionRange.End = max_date;
@@ -112,6 +112,11 @@ namespace lab3
             cmbEAMPM.SelectedItem = "PM";
 
             
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

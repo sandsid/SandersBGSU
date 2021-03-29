@@ -1,0 +1,4 @@
+D:\SandersBGSU\CS3160\Classwork\week9\inCLassShapes\obj\Debug\inCLassShapes.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\week9\inCLassShapes\obj\Debug\inCLassShapes.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\week9\inCLassShapes\obj\Debug\inCLassShapes.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\week9\inCLassShapes\obj\Debug\inCLassShapes.csproj.CoreCompileInputs.cache

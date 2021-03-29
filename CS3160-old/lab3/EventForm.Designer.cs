@@ -49,8 +49,8 @@
             // 
             this.mthCal.Location = new System.Drawing.Point(33, 52);
             this.mthCal.Margin = new System.Windows.Forms.Padding(12, 11, 12, 11);
-            this.mthCal.MaxDate = new System.DateTime(2020, 12, 31, 0, 0, 0, 0);
-            this.mthCal.MinDate = new System.DateTime(2020, 3, 17, 0, 0, 0, 0);
+            this.mthCal.MaxDate = new System.DateTime(2021, 12, 31, 0, 0, 0, 0);
+            this.mthCal.MinDate = new System.DateTime(2021, 3, 13, 0, 0, 0, 0);
             this.mthCal.Name = "mthCal";
             this.mthCal.TabIndex = 0;
             // 
@@ -60,7 +60,7 @@
             this.lblStart.Location = new System.Drawing.Point(604, 79);
             this.lblStart.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblStart.Name = "lblStart";
-            this.lblStart.Size = new System.Drawing.Size(139, 31);
+            this.lblStart.Size = new System.Drawing.Size(73, 17);
             this.lblStart.TabIndex = 1;
             this.lblStart.Text = "Start Time";
             // 
@@ -84,7 +84,7 @@
             this.cmbSHour.Location = new System.Drawing.Point(609, 144);
             this.cmbSHour.Margin = new System.Windows.Forms.Padding(4);
             this.cmbSHour.Name = "cmbSHour";
-            this.cmbSHour.Size = new System.Drawing.Size(160, 39);
+            this.cmbSHour.Size = new System.Drawing.Size(160, 24);
             this.cmbSHour.TabIndex = 2;
             // 
             // lblcolon1
@@ -93,7 +93,7 @@
             this.lblcolon1.Location = new System.Drawing.Point(779, 148);
             this.lblcolon1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblcolon1.Name = "lblcolon1";
-            this.lblcolon1.Size = new System.Drawing.Size(22, 31);
+            this.lblcolon1.Size = new System.Drawing.Size(12, 17);
             this.lblcolon1.TabIndex = 3;
             this.lblcolon1.Text = ":";
             // 
@@ -109,7 +109,7 @@
             this.cmbSMinute.Location = new System.Drawing.Point(811, 144);
             this.cmbSMinute.Margin = new System.Windows.Forms.Padding(4);
             this.cmbSMinute.Name = "cmbSMinute";
-            this.cmbSMinute.Size = new System.Drawing.Size(160, 39);
+            this.cmbSMinute.Size = new System.Drawing.Size(160, 24);
             this.cmbSMinute.TabIndex = 4;
             // 
             // cmbSAMPM
@@ -122,7 +122,7 @@
             this.cmbSAMPM.Location = new System.Drawing.Point(1007, 144);
             this.cmbSAMPM.Margin = new System.Windows.Forms.Padding(4);
             this.cmbSAMPM.Name = "cmbSAMPM";
-            this.cmbSAMPM.Size = new System.Drawing.Size(85, 39);
+            this.cmbSAMPM.Size = new System.Drawing.Size(85, 24);
             this.cmbSAMPM.TabIndex = 5;
             // 
             // lblStop
@@ -131,7 +131,7 @@
             this.lblStop.Location = new System.Drawing.Point(603, 249);
             this.lblStop.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblStop.Name = "lblStop";
-            this.lblStop.Size = new System.Drawing.Size(137, 31);
+            this.lblStop.Size = new System.Drawing.Size(72, 17);
             this.lblStop.TabIndex = 6;
             this.lblStop.Text = "Stop Time";
             // 
@@ -155,7 +155,7 @@
             this.cmbEHour.Location = new System.Drawing.Point(609, 314);
             this.cmbEHour.Margin = new System.Windows.Forms.Padding(4);
             this.cmbEHour.Name = "cmbEHour";
-            this.cmbEHour.Size = new System.Drawing.Size(160, 39);
+            this.cmbEHour.Size = new System.Drawing.Size(160, 24);
             this.cmbEHour.TabIndex = 7;
             // 
             // lblColon2
@@ -164,7 +164,7 @@
             this.lblColon2.Location = new System.Drawing.Point(779, 317);
             this.lblColon2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblColon2.Name = "lblColon2";
-            this.lblColon2.Size = new System.Drawing.Size(22, 31);
+            this.lblColon2.Size = new System.Drawing.Size(12, 17);
             this.lblColon2.TabIndex = 8;
             this.lblColon2.Text = ":";
             // 
@@ -180,7 +180,7 @@
             this.cmbEMinute.Location = new System.Drawing.Point(811, 314);
             this.cmbEMinute.Margin = new System.Windows.Forms.Padding(4);
             this.cmbEMinute.Name = "cmbEMinute";
-            this.cmbEMinute.Size = new System.Drawing.Size(160, 39);
+            this.cmbEMinute.Size = new System.Drawing.Size(160, 24);
             this.cmbEMinute.TabIndex = 9;
             // 
             // cmbEAMPM
@@ -193,7 +193,7 @@
             this.cmbEAMPM.Location = new System.Drawing.Point(1007, 314);
             this.cmbEAMPM.Margin = new System.Windows.Forms.Padding(4);
             this.cmbEAMPM.Name = "cmbEAMPM";
-            this.cmbEAMPM.Size = new System.Drawing.Size(85, 39);
+            this.cmbEAMPM.Size = new System.Drawing.Size(85, 24);
             this.cmbEAMPM.TabIndex = 10;
             // 
             // lblDescrip
@@ -202,7 +202,7 @@
             this.lblDescrip.Location = new System.Drawing.Point(27, 469);
             this.lblDescrip.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDescrip.Name = "lblDescrip";
-            this.lblDescrip.Size = new System.Drawing.Size(228, 31);
+            this.lblDescrip.Size = new System.Drawing.Size(119, 17);
             this.lblDescrip.TabIndex = 11;
             this.lblDescrip.Text = "Event Description";
             // 
@@ -211,7 +211,7 @@
             this.txtEvent.Location = new System.Drawing.Point(33, 516);
             this.txtEvent.Margin = new System.Windows.Forms.Padding(4);
             this.txtEvent.Name = "txtEvent";
-            this.txtEvent.Size = new System.Drawing.Size(1059, 38);
+            this.txtEvent.Size = new System.Drawing.Size(1059, 23);
             this.txtEvent.TabIndex = 12;
             // 
             // btnCancel
@@ -224,6 +224,7 @@
             this.btnCancel.TabIndex = 13;
             this.btnCancel.Text = "&Cancel";
             this.btnCancel.UseVisualStyleBackColor = true;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnAdd
             // 
@@ -239,7 +240,7 @@
             // EventForm
             // 
             this.AcceptButton = this.btnAdd;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnCancel;
             this.ClientSize = new System.Drawing.Size(1125, 707);

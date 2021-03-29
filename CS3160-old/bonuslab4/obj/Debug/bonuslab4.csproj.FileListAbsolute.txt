@@ -8,3 +8,14 @@ C:\Users\Sidney Sanders\Desktop\Classes\CS3160\bonuslab4\bin\Debug\bonuslab4.exe
 C:\Users\Sidney Sanders\Desktop\Classes\CS3160\bonuslab4\bin\Debug\bonuslab4.pdb
 C:\Users\Sidney Sanders\Desktop\Classes\CS3160\bonuslab4\obj\Debug\bonuslab4.exe
 C:\Users\Sidney Sanders\Desktop\Classes\CS3160\bonuslab4\obj\Debug\bonuslab4.pdb
+D:\SandersBGSU\CS3160-old\bonuslab4\bin\Debug\bonuslab4.exe.config
+D:\SandersBGSU\CS3160-old\bonuslab4\bin\Debug\bonuslab4.exe
+D:\SandersBGSU\CS3160-old\bonuslab4\bin\Debug\bonuslab4.pdb
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.Form1.resources
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.NewPhone.resources
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.Properties.Resources.resources
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.exe
+D:\SandersBGSU\CS3160-old\bonuslab4\obj\Debug\bonuslab4.pdb

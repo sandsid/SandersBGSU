@@ -1,0 +1,48 @@
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\App.Form1.resources
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.Properties.Resources.resources
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.exe
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.pdb
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.exe.config
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.exe
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.pdb
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.exe.config
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.exe
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.pdb
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\obj\Debug\Interfaces.csprojAssemblyReference.cache
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\obj\Debug\App.Form1.resources
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.Properties.Resources.resources
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\obj\Debug\Interfaces.csproj.GenerateResource.cache
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.exe
+J:\CS 3160 Spring 2020 MWF\L E C T U R E S\12-Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.pdb
+C:\cs3160\w12\IComparer\bin\Debug\IComparer.exe.config
+C:\cs3160\w12\IComparer\bin\Debug\IComparer.exe
+C:\cs3160\w12\IComparer\bin\Debug\IComparer.pdb
+C:\cs3160\w12\IComparer\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\cs3160\w12\IComparer\obj\Debug\App.Form1.resources
+C:\cs3160\w12\IComparer\obj\Debug\IComparer.Properties.Resources.resources
+C:\cs3160\w12\IComparer\obj\Debug\Interfaces.csproj.GenerateResource.cache
+C:\cs3160\w12\IComparer\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\cs3160\w12\IComparer\obj\Debug\IComparer.exe
+C:\cs3160\w12\IComparer\obj\Debug\IComparer.pdb
+C:\cs3160\w12\IComparer SEED\bin\Debug\IComparer.exe.config
+C:\cs3160\w12\IComparer SEED\bin\Debug\IComparer.exe
+C:\cs3160\w12\IComparer SEED\bin\Debug\IComparer.pdb
+C:\cs3160\w12\IComparer SEED\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\cs3160\w12\IComparer SEED\obj\Debug\App.Form1.resources
+C:\cs3160\w12\IComparer SEED\obj\Debug\IComparer.Properties.Resources.resources
+C:\cs3160\w12\IComparer SEED\obj\Debug\Interfaces.csproj.GenerateResource.cache
+C:\cs3160\w12\IComparer SEED\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\cs3160\w12\IComparer SEED\obj\Debug\IComparer.exe
+C:\cs3160\w12\IComparer SEED\obj\Debug\IComparer.pdb
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\bin\Debug\IComparer.exe.config
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\bin\Debug\IComparer.exe
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\bin\Debug\IComparer.pdb
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\obj\Debug\App.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\obj\Debug\IComparer.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\obj\Debug\Interfaces.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\obj\Debug\IComparer.exe
+D:\SandersBGSU\CS3160\Classwork\IComparer SEED\obj\Debug\IComparer.pdb

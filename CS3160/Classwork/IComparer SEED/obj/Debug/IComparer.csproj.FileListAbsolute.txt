@@ -1,0 +1,9 @@
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.exe.config
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.exe
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\bin\Debug\IComparer.pdb
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.csprojResolveAssemblyReference.cache
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.Properties.Resources.resources
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.csproj.GenerateResource.Cache
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.exe
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\IComparer.pdb
+H:\CS 3160 Spring 2017\L E C T U R E S\09-Overloading, Indexers, Interfaces\In-Class Exercises\IComparer\obj\Debug\App.Form1.resources
