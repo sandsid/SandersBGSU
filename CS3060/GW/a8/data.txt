@@ -1,0 +1,10 @@
+Computer    calculates  400
+Table   holds   50
+Pen writes  1
+Chair   supports    50
+Mouse   moves   10
+Phone   talks   100
+Printer writes  200
+Box holds   50
+Bag holds   40
+ipad    shows   300
