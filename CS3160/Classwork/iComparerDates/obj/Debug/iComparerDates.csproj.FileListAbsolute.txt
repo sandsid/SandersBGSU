@@ -1,0 +1,10 @@
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\bin\Debug\iComparerDates.exe.config
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\bin\Debug\iComparerDates.exe
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\bin\Debug\iComparerDates.pdb
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\obj\Debug\iComparerDates.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\obj\Debug\iComparerDates.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\obj\Debug\iComparerDates.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\obj\Debug\iComparerDates.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\obj\Debug\iComparerDates.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\obj\Debug\iComparerDates.exe
+D:\SandersBGSU\CS3160\Classwork\iComparerDates\obj\Debug\iComparerDates.pdb
