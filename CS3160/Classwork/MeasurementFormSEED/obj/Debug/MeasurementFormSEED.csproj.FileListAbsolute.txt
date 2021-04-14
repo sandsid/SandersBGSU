@@ -1,0 +1,11 @@
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\MeasurementFormSEED.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\MeasurementFormSEED.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\MeasurementFormSEED.MeasurementForm.resources
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\CustomerFormSEED.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\MeasurementFormSEED.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\MeasurementFormSEED.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\CustomerFormSEED.exe
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\obj\Debug\CustomerFormSEED.pdb
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\bin\Debug\CustomerFormSEED.exe.config
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\bin\Debug\CustomerFormSEED.exe
+D:\SandersBGSU\CS3160\Classwork\MeasurementFormSEED\bin\Debug\CustomerFormSEED.pdb

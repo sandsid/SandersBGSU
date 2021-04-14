@@ -1,0 +1,10 @@
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\bin\Debug\Sanders_assignment_5.exe.config
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\bin\Debug\Sanders_assignment_5.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\bin\Debug\Sanders_assignment_5.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\obj\Debug\Sanders_assignment_5.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\obj\Debug\Sanders_assignment_5.Form1.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\obj\Debug\Sanders_assignment_5.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\obj\Debug\Sanders_assignment_5.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\obj\Debug\Sanders_assignment_5.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\obj\Debug\Sanders_assignment_5.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_5\obj\Debug\Sanders_assignment_5.pdb

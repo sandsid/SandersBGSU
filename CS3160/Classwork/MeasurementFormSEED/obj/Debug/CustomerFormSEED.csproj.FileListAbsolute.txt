@@ -1,0 +1,20 @@
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\bin\Debug\CustomerFormSEED.exe.config
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\obj\Debug\CustomerFormSEED.csprojResolveAssemblyReference.cache
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\obj\Debug\CustomerFormSEED.Form1.resources
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\obj\Debug\CustomerFormSEED.Properties.Resources.resources
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\obj\Debug\CustomerFormSEED.csproj.GenerateResource.Cache
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\bin\Debug\CustomerFormSEED.exe
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\bin\Debug\CustomerFormSEED.pdb
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\obj\Debug\CustomerFormSEED.CustomerForm.resources
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\obj\Debug\CustomerFormSEED.exe
+F:\CS 3160 Spring 2017\L A B S\Lab 6\CustomerFormSEED\obj\Debug\CustomerFormSEED.pdb
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\bin\Debug\CustomerFormSEED.exe.config
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\obj\Debug\CustomerFormSEED.exe
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\obj\Debug\CustomerFormSEED.pdb
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\bin\Debug\CustomerFormSEED.exe
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\bin\Debug\CustomerFormSEED.pdb
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\obj\Debug\CustomerFormSEED.csprojResolveAssemblyReference.cache
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\obj\Debug\CustomerFormSEED.Form1.resources
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\obj\Debug\CustomerFormSEED.CustomerForm.resources
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\obj\Debug\CustomerFormSEED.Properties.Resources.resources
+F:\CS 3160 Spring 2017\L E C T U R E S\10-Data Validation\InClass Exercise\CustomerFormSEED\obj\Debug\CustomerFormSEED.csproj.GenerateResource.Cache
