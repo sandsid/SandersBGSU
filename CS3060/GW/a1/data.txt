@@ -1,7 +1,0 @@
-computer calculates 400
-board holds 50
-pen writes 1
-chair supports 40
-notebook records 7
-ruler measures 2
-desk holds 55

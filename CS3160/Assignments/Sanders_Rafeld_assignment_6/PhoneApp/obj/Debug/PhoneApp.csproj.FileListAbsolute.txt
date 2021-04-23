@@ -1,0 +1,33 @@
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\obj\Debug\PhoneApp.csprojResolveAssemblyReference.cache
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\obj\Debug\PhoneApp.Form1.resources
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\obj\Debug\PhoneApp.csproj.GenerateResource.Cache
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\obj\Debug\PhoneApp.PhoneForm.resources
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\bin\Debug\Lab6.exe.config
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\bin\Debug\Lab6.exe
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\bin\Debug\Lab6.pdb
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\obj\Debug\Lab6.exe
+F:\CS 3160 Spring 2017\L A B S\Lab 6\Lab6\obj\Debug\Lab6.pdb
+C:\cs3160\w14\PhoneApp SEED\bin\Debug\Lab6.exe.config
+C:\cs3160\w14\PhoneApp SEED\bin\Debug\Lab6.exe
+C:\cs3160\w14\PhoneApp SEED\bin\Debug\Lab6.pdb
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\PhoneApp.csprojAssemblyReference.cache
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\PhoneApp.Form1.resources
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\PhoneApp.PhoneForm.resources
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\Lab6.Properties.Resources.resources
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\PhoneApp.csproj.GenerateResource.cache
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\PhoneApp.csproj.CoreCompileInputs.cache
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\Lab6.exe
+C:\cs3160\w14\PhoneApp SEED\obj\Debug\Lab6.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\bin\Debug\Lab6.exe.config
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\bin\Debug\Lab6.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\bin\Debug\Lab6.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.Form1.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.PhoneForm.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.FieldExceptionForm.resources

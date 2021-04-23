@@ -1,0 +1,22 @@
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\bin\Debug\LINQ to XML.exe.config
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\bin\Debug\LINQ to XML.exe
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\bin\Debug\LINQ to XML.pdb
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\obj\Debug\LINQ to XML.csprojResolveAssemblyReference.cache
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\obj\Debug\LINQ_to_XML.Form1.resources
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\obj\Debug\LINQ_to_XML.Properties.Resources.resources
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\obj\Debug\LINQ to XML.csproj.GenerateResource.Cache
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\obj\Debug\LINQ to XML.exe
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML\obj\Debug\LINQ to XML.pdb
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML - SEED\bin\Debug\LINQ to XML.exe.config
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML - SEED\obj\Debug\LINQ to XML.exe
+F:\CS 3160 Spring 2017\L E C T U R E S\11-Databases and LINQ\InClass Exercises\LINQ to XML - SEED\obj\Debug\LINQ to XML.pdb
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\bin\Debug\LINQ to XML.exe.config
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\bin\Debug\LINQ to XML.exe
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\bin\Debug\LINQ to XML.pdb
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\obj\Debug\LINQ to XML.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\obj\Debug\LINQ_to_XML.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\obj\Debug\LINQ_to_XML.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\obj\Debug\LINQ to XML.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\obj\Debug\LINQ to XML.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\obj\Debug\LINQ to XML.exe
+D:\SandersBGSU\CS3160\Classwork\LINQ to XML - SEED\obj\Debug\LINQ to XML.pdb

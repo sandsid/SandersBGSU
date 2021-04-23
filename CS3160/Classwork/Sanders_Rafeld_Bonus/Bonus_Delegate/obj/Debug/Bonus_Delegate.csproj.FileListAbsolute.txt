@@ -1,0 +1,10 @@
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\bin\Debug\Bonus_Delegate.exe.config
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\bin\Debug\Bonus_Delegate.exe
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\bin\Debug\Bonus_Delegate.pdb
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\obj\Debug\Bonus_Delegate.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\obj\Debug\Bonus_Delegate.Form1.resources
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\obj\Debug\Bonus_Delegate.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\obj\Debug\Bonus_Delegate.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\obj\Debug\Bonus_Delegate.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\obj\Debug\Bonus_Delegate.exe
+D:\SandersBGSU\CS3160\Classwork\Bonus_Delegate\obj\Debug\Bonus_Delegate.pdb
