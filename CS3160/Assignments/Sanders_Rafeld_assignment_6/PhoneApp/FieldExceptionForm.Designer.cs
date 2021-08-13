@@ -41,7 +41,7 @@ namespace Lab6
             // lblMessage
             // 
             this.lblMessage.AutoSize = true;
-            this.lblMessage.Location = new System.Drawing.Point(21, 29);
+            this.lblMessage.Location = new System.Drawing.Point(25, 29);
             this.lblMessage.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblMessage.Name = "lblMessage";
             this.lblMessage.Size = new System.Drawing.Size(65, 16);
@@ -51,7 +51,7 @@ namespace Lab6
             // lblFied
             // 
             this.lblFied.AutoSize = true;
-            this.lblFied.Location = new System.Drawing.Point(21, 78);
+            this.lblFied.Location = new System.Drawing.Point(26, 79);
             this.lblFied.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblFied.Name = "lblFied";
             this.lblFied.Size = new System.Drawing.Size(38, 16);
@@ -61,7 +61,7 @@ namespace Lab6
             // lblValue
             // 
             this.lblValue.AutoSize = true;
-            this.lblValue.Location = new System.Drawing.Point(21, 131);
+            this.lblValue.Location = new System.Drawing.Point(26, 128);
             this.lblValue.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblValue.Name = "lblValue";
             this.lblValue.Size = new System.Drawing.Size(43, 16);
@@ -80,7 +80,7 @@ namespace Lab6
             // txtField
             // 
             this.txtField.Enabled = false;
-            this.txtField.Location = new System.Drawing.Point(97, 72);
+            this.txtField.Location = new System.Drawing.Point(97, 76);
             this.txtField.Name = "txtField";
             this.txtField.Size = new System.Drawing.Size(287, 22);
             this.txtField.TabIndex = 4;
@@ -107,6 +107,7 @@ namespace Lab6
             // 
             // FieldExceptionForm
             // 
+            this.AcceptButton = this.btnOk;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(433, 215);

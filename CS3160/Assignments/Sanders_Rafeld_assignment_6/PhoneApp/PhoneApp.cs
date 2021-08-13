@@ -23,15 +23,23 @@ namespace PhoneApp
         // input filename from user selection.
         private static string mFileName;
 
-        //output filename
-        private static string mOutFileName = "phoneBook.txt";
-
         static PhoneApp()
         {
             mIsModified = false;
             mPhoneList = new ArrayList();
         }
 
+        public bool IsModified
+        {
+            get { return mIsModified; }
+            set { mIsModified = value; }
+        }
+
+
+
+        /// <summary>
+        /// Read phone list from the file past by the form 1
+        /// </summary>
         public ArrayList ReadPhones(string inputFileName)
         {
             Phone ph;
@@ -57,18 +65,22 @@ namespace PhoneApp
             return mPhoneList;
         }
 
-        public void WritePhones()
+        /// <summary>
+        /// Write phone list to the file past by the form 1
+        /// </summary>
+        public void WritePhones(string outfile)
         {
             // No need to output anything if the file wasn't modified
             if (mIsModified)
             {
-                DataAccess.InitializeWrite(mOutFileName);
+                DataAccess.InitializeWrite(outfile);
                 foreach (Phone ph in mPhoneList)
                 {
                     DataAccess.WritePhone(ph);
                 }
                 DataAccess.FinishWrite();
             }
+
         }
 
         public void NewPhone(Phone ph)

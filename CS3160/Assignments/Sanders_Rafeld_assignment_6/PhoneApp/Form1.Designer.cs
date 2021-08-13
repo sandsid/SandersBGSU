@@ -83,13 +83,13 @@
             this.exitMenuItem});
             this.fileMenuItem.Name = "fileMenuItem";
             this.fileMenuItem.Size = new System.Drawing.Size(37, 20);
-            this.fileMenuItem.Text = "File";
+            this.fileMenuItem.Text = "&File";
             // 
             // mergeMenuItem
             // 
             this.mergeMenuItem.Name = "mergeMenuItem";
             this.mergeMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.mergeMenuItem.Text = "Merge";
+            this.mergeMenuItem.Text = "&Merge";
             this.mergeMenuItem.Click += new System.EventHandler(this.mergeMenuItem_Click);
             // 
             // saveAsMenuItem
@@ -97,14 +97,14 @@
             this.saveAsMenuItem.Enabled = false;
             this.saveAsMenuItem.Name = "saveAsMenuItem";
             this.saveAsMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.saveAsMenuItem.Text = "Save As..";
+            this.saveAsMenuItem.Text = "&Save As..";
             this.saveAsMenuItem.Click += new System.EventHandler(this.saveAsMenuItem_Click);
             // 
             // exitMenuItem
             // 
             this.exitMenuItem.Name = "exitMenuItem";
             this.exitMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.exitMenuItem.Text = "Exit";
+            this.exitMenuItem.Text = "&Exit";
             this.exitMenuItem.Click += new System.EventHandler(this.exitMenuItem_Click);
             // 
             // editMenuItem
@@ -115,13 +115,13 @@
             this.removeMenuItem});
             this.editMenuItem.Name = "editMenuItem";
             this.editMenuItem.Size = new System.Drawing.Size(39, 20);
-            this.editMenuItem.Text = "Edit";
+            this.editMenuItem.Text = "&Edit";
             // 
             // insertMenuItem
             // 
             this.insertMenuItem.Name = "insertMenuItem";
             this.insertMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.insertMenuItem.Text = "Insert";
+            this.insertMenuItem.Text = "&Insert";
             this.insertMenuItem.Click += new System.EventHandler(this.insertMenuItem_Click);
             // 
             // modifyMenuItem
@@ -129,7 +129,7 @@
             this.modifyMenuItem.Enabled = false;
             this.modifyMenuItem.Name = "modifyMenuItem";
             this.modifyMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.modifyMenuItem.Text = "Modify";
+            this.modifyMenuItem.Text = "&Modify";
             this.modifyMenuItem.Click += new System.EventHandler(this.modifyMenuItem_Click);
             // 
             // removeMenuItem
@@ -137,7 +137,7 @@
             this.removeMenuItem.Enabled = false;
             this.removeMenuItem.Name = "removeMenuItem";
             this.removeMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.removeMenuItem.Text = "Remove";
+            this.removeMenuItem.Text = "&Remove";
             this.removeMenuItem.Click += new System.EventHandler(this.removeMenuItem_Click);
             // 
             // Form1

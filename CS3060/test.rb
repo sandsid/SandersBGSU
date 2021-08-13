@@ -1,15 +1,26 @@
-def foo(n)
+class String 
+    def size
+        9
+    end
+end
 
-    step1res =(1..n) 
-    
-    step2res = step1res.map {|x|    (x*5) + (x**3)   } 
-    
-    step3res = step2res.inject(1){|s, item|  s +item  }
-    
+class Integer 
+    def size 
+        8
+    end
+end
+class Any
+    def size 
+        4
+    end 
+end 
+
+x = ["4567", 142, 1462, "567"]
+x.each do |i|
+    puts "(#{i.class}, #{i.size})"
 end
 
 
-result1 = foo(17)
-result2 = foo(19) 
-p result1
-p result2
+
+
+

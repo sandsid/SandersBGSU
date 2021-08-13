@@ -1,0 +1,10 @@
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\bin\Debug\StdDialogs.dll
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\bin\Debug\StdDialogs.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.dll
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.AboutBox.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\StdDialogs\obj\Debug\StdDialogs.SplashAbout.resources

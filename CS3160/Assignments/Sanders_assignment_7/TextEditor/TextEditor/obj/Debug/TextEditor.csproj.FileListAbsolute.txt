@@ -1,0 +1,13 @@
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\bin\Debug\StdDialogs.dll
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\bin\Debug\StdDialogs.pdb
+D:\SandersBGSU\CS3160\Assignments\Sanders_assignment_7\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CopyComplete

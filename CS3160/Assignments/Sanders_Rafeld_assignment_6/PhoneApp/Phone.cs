@@ -34,28 +34,56 @@ namespace PhoneApp
 
         public Phone()
         {
-            //Name = null;
-            //PhoneNumber = null;
+            ValidName = false;
+            ValidPhoneNumber = false;
         }
 
+        /// <summary>
+        /// Set the name of the contact after validating the fields are formatted
+        /// correctly
+        /// </summary>
         public string Name
         {
             get { return mFullName; }
             set
             {
                 string result = ValidateName(value);
-                if (result != "")
+                if (result == "Empty Field."){
+                    ValidName = false;
+                    ex = new MyFieldException(result, "Name", value);
+                }
+                else if (result == "Must Include Comma.")
+                {
+                    ValidName = false;
+                    ex = new MyFieldException(result, "Name", value);
+                }
+                else if (result == "Must have First name following the comma.")
+                {
+                    ValidName = false;
+                    ex = new MyFieldException(result, "Name", value);
+                }
+                else if (result == "Must have Last name followed by comma.")
+                {
+                    ValidName = false;
+                    ex = new MyFieldException(result, "Name", value);
+                }
+                else if (result == "Incorrect format.")
+                {
+                    ValidName = false;
+                    ex = new MyFieldException(result, "Name", value);
+                }
+                else
                 {
                     mFullName = result;
                     ValidName = true;
                 }
-                else
-                {
-                    ValidName = false;
-                }
             }
         }
 
+        /// <summary>
+        /// Set the phone number of the contact after validating the fields are formatted
+        /// correctly
+        /// </summary>
         public string PhoneNumber
         {
             get { return mPhoneNumber; }
@@ -63,16 +91,26 @@ namespace PhoneApp
             {
                 string result = ValidatePhoneNumber(value);
 
-                if (validNumformat.IsMatch(result))
+                if (result == "Empty Field")
+                {
+                    ValidPhoneNumber = false;
+                    ex = new MyFieldException(result, "Phone Number", value);
+                }
+                else if (result == "Invalid area code")
+                {
+                    ValidPhoneNumber = false;
+                    ex = new MyFieldException(result, "Phone Number", value);
+                }
+                else if (result == "Must input 7 or 10 digit")
+                {
+                    ValidPhoneNumber = false;
+                    ex = new MyFieldException(result, "Phone Number", value);
+                }
+                else
                 {
                     mPhoneNumber = result;
                     ValidPhoneNumber = true;
                 }
-                else if (result == "")
-                {
-                    ValidPhoneNumber = false;
-                }
-                
             }
         }
 
@@ -96,31 +134,54 @@ namespace PhoneApp
             set { isvalidphoneNum = value; }
         }
 
+        /// <summary>
+        /// Checks the Name against set Regex expressions to determine any formatting
+        /// issues from user input
+        /// </summary>
         public static string ValidateName (string n)
         {
-
-            string name = n; 
-            Regex check = new Regex(@"^[^-\s]('|)[a-zA-z]{1,}('|)[a-zA-Z]{1,}('|)(\,)(\s|,|'|-){1,}[a-zA-Z]");
+            string name = n.Trim(' '); 
+            Regex check = new Regex(@"^[A-Za-z' -]+\s?,\s?[A-Za-z' -]+$");
             Regex checkComma = new Regex(@"(\,)");
+            Regex checkLastName = new Regex(@"^[A-Za-z' -]+\s?,*");
+            Regex checkFirstName = new Regex(@",\s?[A-Za-z' -]+$");
 
             if (name == "" || name == null)
             {
-                
-                FieldExceptionForm frm = new FieldExceptionForm("Empty Field", "Name", n);
-               
+                return "Empty Field.";
             }
             else if(check.IsMatch(name))
             {
                 return name;
             }
-            else if (!checkComma.IsMatch(name))
+            else if (checkComma.IsMatch(name))
             {
-                throw new MyFieldException("Must have Comma", "Name", n);
+                if (checkLastName.IsMatch(name))
+                {
+                    if (checkFirstName.IsMatch(name))
+                    {
+                        return "Incorrect format.";
+                    }
+                    else
+                    {
+                        return "Must have First name following the comma.";
+                    }
+                }
+                else
+                {
+                    return "Must have Last name followed by comma.";
+                }
             }
-
-            return "";
+            else
+            {
+                return "Must Include Comma.";
+            }
         }
 
+        /// <summary>
+        /// Checks the Phone number set Regex expressions to determine any 
+        /// formatting issues from the user input
+        /// </summary>
         public static string ValidatePhoneNumber (string pn)
         {
             Regex check = new Regex(@"^((419)?(\s*|-)\d{3}(\s|-)\d{4}|419\d{7}|\d{3}(\s|-)\d{4}|\d{7})$");
@@ -129,7 +190,7 @@ namespace PhoneApp
             string phoneNum = pn;
             if (pn == "")
             {
-                throw new MyFieldException("Empty Field", "Phone Number", pn);
+                return "Empty Field";
             }
             else if (check.IsMatch(pn))
             {
@@ -147,26 +208,23 @@ namespace PhoneApp
             }
             else
             {
-                Regex.Replace(phoneNum, @"[^0-9]", "");
-                if (pn.Length == 10)
+                phoneNum = Regex.Replace(phoneNum, @"[^0-9]", "");
+                if (phoneNum.Length == 10)
                 {
-                    if (!check419.IsMatch(phoneNum))
+                    if (check419.IsMatch(phoneNum))
                     {
-                        throw new MyFieldException("Invalid area code", "Phone Number", pn);
+                        return phoneNum;
+                    }
+                    else
+                    {
+                        return "Invalid area code";
                     }
                 }
                 else
                 {
-                    throw new MyFieldException("Must input 7 or 10 digit", "Phone Number", pn);
-                }
-                
-                if (check419.IsMatch(phoneNum))
-                {
-                    throw new MyFieldException("Check Dashes/Parentheses", "Phone Number", pn);
+                    return "Must input 7 or 10 digit";
                 }
             }
-
-            return "";
         }
 
         public override string ToString()

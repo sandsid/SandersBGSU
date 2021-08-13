@@ -13,15 +13,18 @@ namespace Lab6
     public partial class FieldExceptionForm : Form
     {
         public MyFieldException ex;
-        public FieldExceptionForm(string message, string error, string input)
+        public FieldExceptionForm(MyFieldException exec)
         {
             //
             InitializeComponent();
-            //FieldExceptionForm frm = new FieldExceptionForm();
-            //frm.ShowDialog();
-            ex = new MyFieldException(message, error, input);
+            this.StartPosition = FormStartPosition.CenterParent;
+            ex = exec;
+            
         }
 
+        /// <summary>
+        /// Displays the error to the user 
+        /// </summary>
         private void FieldExceptionForm_Load(object sender, EventArgs e)
         {
             txtMessage.Text = ex.ErrorMessage;

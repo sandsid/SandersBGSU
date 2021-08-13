@@ -1,17 +1,12 @@
-v1 = [2*n | n <- take 4 [1..], even (n)]
-v2  = foldl   (\x y ->  x + y + 1)   2   [2*n | n <- take 4 [1..], even (n)]
 
---myFunc:: [Char] -> Bool
-
---myFunc x = if (length x == 5)  then True else False  
-
---myFunc    =
---finalList = filter myFunc ["abc", "prst", "acts", "st"]
-
-myRange start step = start:(myRange (start + step) step)
+myfunc :: [Int] -> Int -> [Int]
+myfunc  [ ] _ = [ ]
+myfunc   (h:t)  x   
+  | h == x  =  h : myfunc t  x   
+  | otherwise = myfunc   t   x
 
 
 main :: IO ()
-
-main = do 
-    print (v2)
+main= do
+    print(myfunc [2,7,12,7,19] 7)
+    print(myfunc [23] 2)
