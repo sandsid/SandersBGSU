@@ -1,5 +1,6 @@
 # SandersBGSU
-All course work 
+
+Computer Science Courses:
 
 
 ## CS 2010 Programming FundamentalsSpring
