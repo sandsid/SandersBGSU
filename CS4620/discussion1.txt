@@ -14,10 +14,8 @@ Will be docked for grammar issues.
 -----------------------------------------------------------------------------------
 
 
-Hello, My name is Sidney. I'm a 5th year undergrad here for Computer Science. My last 
-year though, which is exciting! Something interesting about me is .... idk 
-
-I'm really interested in getting into sequal and learning the language/commands. 
-Nothing comes to mind when thinking about anything to add to the semester that isnt on the syllabus that isnt already included.
-
-
+Hello, My name is Sidney. I'm a 5th-year undergrad here in Computer Science. My last 
+year though, which is exciting! Something interesting about me is I love traveling 
+and have driven across the country a couple of times. I love to cook and try new recipes.
+  I'm really interested in getting into SQL and learning the language/commands.  Nothing 
+  comes to mind when thinking about anything to add to the semester that isn't on the syllabus.
