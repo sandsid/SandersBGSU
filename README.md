@@ -49,7 +49,7 @@ Purpose: Algorithms for solving problems that occur frequently in computer appli
 
 
 
-## CS 4390
+## CS 4390 Network Architecture and Applications
 Fall 2021
 Professor: Hassan Rajaei
 
@@ -57,7 +57,7 @@ Purpose: This course covers the features of modern Network Architecture and Appl
 
 
 
-## CS 4620
+## CS 4620 Database Management SystemsIf
 Fall 2021
 Professor: Ray Kresman
 
