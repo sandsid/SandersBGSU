@@ -58,11 +58,12 @@ int main()
     
     int size;
     auto duration = 0;
-    string filename = "";
+    string filename = "RAND-10000.txt";
 
     //getting file name from user
-    cout << "Enter Filename: ";
-    cin >> filename;
+    //cout << "Enter Filename: ";
+    //cin >> filename;
+
 
 
     size = determine_size(filename);
