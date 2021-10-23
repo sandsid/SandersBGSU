@@ -1,0 +1,103 @@
+//Sidney Sanders
+//CS4620 HW 6 
+//10/24/21
+
+#include <stdio.h>
+#include <string.h>
+#include <sqlca.h>
+#include <stdlib.h>
+#include <sqlda.h>
+#include <sqlcpr.h>
+
+  char sqlQueryToRun[1000];	//holds the sql stat being constructed..
+  int  supplierNo;
+
+  char outputSupplierName[50];	//retrieved output from database
+
+
+// Declare error handling function - so we can process any errors
+void sql_error(char *msg);    
+
+//Instructor routines - the name says what it does
+void connectToDatabase();
+void prepareAndExecuteIt ();   //run the query and spit out results
+void commitAndExit() ;
+
+// Oracle requried communication area b/w database and C++ program
+exec sql include sqlca;
+
+main() {
+
+//  Call sql_error() function on any error in an embedded SQL statement
+
+    exec sql 
+	WHENEVER SQLERROR DO sql_error("ORACLE error:"); 
+    connectToDatabase();
+
+    //Construct a SQL, run it, and print the results
+    prepareAndExecuteIt ();
+    commitAndExit();
+
+}
+
+void connectToDatabase() {
+
+//CHANGE these two lines to your username and pwd
+char username[123] = "dbsandsid@bgcsdb";
+char password[123] = "Sandsidney3!";
+
+//Connect to Oracle
+
+    EXEC SQL WHENEVER SQLERROR DO sql_error("ORACLE error--");
+
+    EXEC SQL CONNECT :username IDENTIFIED BY :password;
+    printf("\nConnected to ORACLE as user: %s\n", username);
+
+}
+
+
+void commitAndExit() {
+
+    exec sql commit work release;
+    exit(0);  
+}
+void sql_error(char *msg) {
+    char err_msg[512];
+    size_t buf_len, msg_len;
+
+    EXEC SQL WHENEVER SQLERROR CONTINUE;
+
+    printf("\n%s\n", msg);
+
+    buf_len = sizeof (err_msg);
+    sqlglm(err_msg, &buf_len, &msg_len);
+    printf("%.*s\n", msg_len, err_msg);
+
+    EXEC SQL ROLLBACK RELEASE;
+    exit(EXIT_FAILURE);
+}
+
+
+void  prepareAndExecuteIt() {
+
+//  Prepare the query
+    exec sql PREPARE dbVariableToHoldQuery FROM
+        SELECT supplierName from supplier where supplierNumber = 1;
+
+//  Assoicate a cursor to hold the result
+    EXEC SQL DECLARE cursorToHoldResultTuples CURSOR FOR
+        dbVariableToHoldQuery;
+
+//  Run the query
+    EXEC SQL OPEN cursorToHoldResultTuples;
+
+//  get the tuple and cout
+    exec sql FETCH cursorToHoldResultTuples INTO :outputSupplierName;
+    printf("\nSupplier name: %s\n", outputSupplierName);
+
+    printf("\n\n all done\n");
+
+//  Close the cursor
+    exec sql close cursorToHoldResultTuples;
+}
+
