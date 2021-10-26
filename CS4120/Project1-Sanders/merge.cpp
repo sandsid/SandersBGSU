@@ -1,11 +1,6 @@
 /*
+CS 4120 - Fall 2021
 Sidney Sanders
-created 11/12/2020
-
-merge sorting files given by user
-recording time it takes to sort
-outputting size of array, number of comparisons, and time recorded
-
 */
 
 
@@ -21,7 +16,6 @@ long long comparisons;
 void mergeSort(int[], int, int);
 void merge(int[], int, int, int);
 
-
 int determine_size(string);
 void fill_array(int[], string);
 
@@ -31,7 +25,6 @@ int main()
 	
 	high_resolution_clock::time_point start;
 	high_resolution_clock::time_point end;
-	
 	
 	int size;
 	auto duration = 0;

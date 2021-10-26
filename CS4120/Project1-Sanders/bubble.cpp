@@ -12,10 +12,9 @@ Sidney Sanders
 using namespace std;
 using namespace chrono;
 
-
 long long comparisons;
 
-void insertionSort(int[], int);
+void bubbleSort(int[], int);
 
 int determine_size(string);
 
@@ -46,42 +45,40 @@ int main()
         comparisons = 0;
 
         startTime = high_resolution_clock::now();
-        insertionSort(data, size);
+        bubbleSort(data, size);
         endTime = high_resolution_clock::now();
 
 
         duration = duration_cast<microseconds>(endTime - startTime).count();
 
-        cout << size << "\t" << comparisons << "      \t" << duration << endl;
+        cout << size << " " << comparisons << " " << duration << endl;
         data = nullptr;
         delete data;
     }
-
+    
 
     cout << endl;
-    //system("pause");
     return 0;
 }
 
-//Insertion Sort
-void insertionSort(int ary[], int length)
+//Bubble Sort
+void bubbleSort(int ary[], int length)
 {
-    int key, j;
+    int i, j;
+    for (i = 0; i < length - 1; i++)
 
-    for (int i = 1; i < length; i++)
-    {
-        key = ary[i];
-        j = i - 1;
-
-        while (j >= 0 && ary[j] > key)
-        {
-            ary[j + 1] = ary[j];
-            j = j - 1;
-            comparisons++;
-        }
-        comparisons++;
+    for (j = 0; j < length - i - 1; j++) {
+      if (ary[j] > ary[j + 1])
+        swap(ary[j], ary[j + 1]);
+      comparisons++;
     }
 }
+void swap(int* a, int* b) 
+{ 
+    int t = *a; 
+    *a = *b; 
+    *b = t; 
+} 
 
 //Determine size of file
 int determine_size(string filename)
@@ -127,4 +124,3 @@ void fill_array(int ary[], string filename)
     }
     infile.close();
 }
-

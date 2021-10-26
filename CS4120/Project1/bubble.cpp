@@ -28,30 +28,35 @@ int main()
     
     int size;
     auto duration = 0;
-    string fileArray[] = {"rand-1000.txt", "rand-2000.txt", "rand-4000.txt", "rand-8000.txt",
+    string fileArray[12] = {"rand-1000.txt", "rand-2000.txt", "rand-4000.txt", "rand-8000.txt",
                             "reverse-1000.txt", "reverse-2000.txt", "reverse-4000.txt", "reverse-8000.txt",
                             "sorted-1000.txt", "sorted-2000.txt", "sorted-4000.txt", "sorted-8000.txt",};
-    string filename = "rand-10000.txt";
-
-    size = determine_size(filename);
-    int* data = new int[size];
-    fill_array(data, filename);
-
-    //initializing comparisons
-    comparisons = 0;
-
-    startTime = high_resolution_clock::now();
-    bubbleSort(data, size);
-    endTime = high_resolution_clock::now();
+    string filename = "";
 
 
-    duration = duration_cast<microseconds>(endTime - startTime).count();
+    for(int i = 0; i < 12; i++)
+    {
+        filename = fileArray[i];
+        size = determine_size(filename);
+        int* data = new int[size];
+        fill_array(data, filename);
 
-    cout << size << ",   " << comparisons << ",   " << duration << endl;
+        //initializing comparisons
+        comparisons = 0;
+
+        startTime = high_resolution_clock::now();
+        bubbleSort(data, size);
+        endTime = high_resolution_clock::now();
+
+
+        duration = duration_cast<microseconds>(endTime - startTime).count();
+
+        cout << size << " " << comparisons << " " << duration << endl;
+        data = nullptr;
+        delete data;
+    }
     
     
-    data = nullptr;
-    delete data;
 
 
     cout << endl;
@@ -62,22 +67,21 @@ int main()
 //Bubble Sort
 void bubbleSort(int ary[], int length)
 {
-    int key, j;
+    int i, j;
+    for (i = 0; i < length - 1; i++)
 
-    for (int i = 1; i < length; i++)
-    {
-        key = ary[i];
-        j = i - 1;
-
-        while (j >= 0 && ary[j] > key)
-        {
-            ary[j + 1] = ary[j];
-            j = j - 1;
-            comparisons++;
-        }
-        comparisons++;
+    for (j = 0; j < length - i - 1; j++) {
+      if (ary[j] > ary[j + 1])
+        swap(ary[j], ary[j + 1]);
+      comparisons++;
     }
 }
+void swap(int* a, int* b) 
+{ 
+    int t = *a; 
+    *a = *b; 
+    *b = t; 
+} 
 
 //Determine size of file
 int determine_size(string filename)

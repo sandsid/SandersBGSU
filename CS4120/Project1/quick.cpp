@@ -12,10 +12,11 @@ Sidney Sanders
 using namespace std;
 using namespace chrono;
 
-
 long long comparisons;
 
-void insertionSort(int[], int);
+void quickSort(int[], int, int);
+int partition_random(int[], int, int);
+int partition(int[], int ,int);
 
 int determine_size(string);
 
@@ -46,42 +47,74 @@ int main()
         comparisons = 0;
 
         startTime = high_resolution_clock::now();
-        insertionSort(data, size);
+        quickSort(data, 0, size);
         endTime = high_resolution_clock::now();
 
 
         duration = duration_cast<microseconds>(endTime - startTime).count();
 
-        cout << size << "\t" << comparisons << "      \t" << duration << endl;
+        cout << size << " " << comparisons << " " << duration << endl;
         data = nullptr;
         delete data;
     }
 
 
     cout << endl;
-    //system("pause");
     return 0;
 }
 
-//Insertion Sort
-void insertionSort(int ary[], int length)
+//Quick Sort Using Random Pivot
+void quickSort(int ary[], int low, int high)
 {
-    int key, j;
-
-    for (int i = 1; i < length; i++)
-    {
-        key = ary[i];
-        j = i - 1;
-
-        while (j >= 0 && ary[j] > key)
-        {
-            ary[j + 1] = ary[j];
-            j = j - 1;
-            comparisons++;
-        }
-        comparisons++;
+    if (low < high) {
+ 
+        int q = partition_random(ary, low, high);
+        quickSort(ary, low, q - 1);
+        quickSort(ary, q + 1, high);
     }
 }
+
+// Random Pivot
+int partition_random(int ary[], int low, int high)
+{
+    // Generate a random number within size
+    srand(time(NULL));
+    int random = low + rand() % (high - low);
+ 
+    // Swap 
+    swap(ary[random], ary[high]);
+ 
+    return partition(ary, low, high);
+}
+
+
+int partition(int ary[], int low, int high)
+{
+    
+    int pivot = ary[high]; 
+
+    int i = (low - 1); 
+ 
+    for (int j = low; j <= high - 1; j++) 
+    {
+        if (ary[j] <= pivot) 
+        {
+            i++; 
+            swap(ary[i], ary[j]);
+			comparisons++;
+        }
+		comparisons++;
+    }
+    swap(ary[i + 1], ary[high]);
+    return (i + 1);
+}
+
+void swap(int* a, int* b) 
+{ 
+    int t = *a; 
+    *a = *b; 
+    *b = t; 
+} 
 
 //Determine size of file
 int determine_size(string filename)
@@ -127,4 +160,3 @@ void fill_array(int ary[], string filename)
     }
     infile.close();
 }
-

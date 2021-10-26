@@ -18,7 +18,6 @@ long long comparisons;
 void insertionSort(int[], int);
 
 int determine_size(string);
-
 void fill_array(int[], string);
 
 int main()
@@ -59,7 +58,6 @@ int main()
 
 
     cout << endl;
-    //system("pause");
     return 0;
 }
 

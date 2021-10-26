@@ -12,10 +12,11 @@ Sidney Sanders
 using namespace std;
 using namespace chrono;
 
-
 long long comparisons;
 
-void insertionSort(int[], int);
+//declarations for heapppp
+void heapSort(int[], int);
+void heapify(int[], int, int);
 
 int determine_size(string);
 
@@ -46,16 +47,18 @@ int main()
         comparisons = 0;
 
         startTime = high_resolution_clock::now();
-        insertionSort(data, size);
+        heapSort(data, size);
         endTime = high_resolution_clock::now();
 
 
         duration = duration_cast<microseconds>(endTime - startTime).count();
 
-        cout << size << "\t" << comparisons << "      \t" << duration << endl;
+        cout << size << " " << comparisons << " " << duration << endl;
         data = nullptr;
         delete data;
     }
+    
+    
 
 
     cout << endl;
@@ -63,25 +66,47 @@ int main()
     return 0;
 }
 
-//Insertion Sort
-void insertionSort(int ary[], int length)
+void heapSort(int ary[], int n)
 {
-    int key, j;
+  for (int i = n / 2 - 1; i >= 0; i--)
+    heapify(ary, n, i);
 
-    for (int i = 1; i < length; i++)
-    {
-        key = ary[i];
-        j = i - 1;
+  for (int i = n - 1; i > 0; i--) {
+    swap(ary[0], ary[i]);
 
-        while (j >= 0 && ary[j] > key)
-        {
-            ary[j + 1] = ary[j];
-            j = j - 1;
-            comparisons++;
-        }
+    heapify(ary, i, 0);
+  }
+}
+void heapify(int ary[], int n, int i)
+{
+    int largest = i; 
+    int l = 2 * i + 1; 
+    int r = 2 * i + 2; 
+
+    if (l < n && ary[l] > ary[largest]){
+        largest = l;
         comparisons++;
     }
+
+    if (r < n && ary[r] > ary[largest]){
+        largest = r;
+        comparisons++;
+    }
+
+    if (largest != i) {
+        swap(ary[i], ary[largest]);
+        heapify(ary, n, largest);
+    }
 }
+
+void swap(int* a, int* b) 
+{ 
+    int t = *a; 
+    *a = *b; 
+    *b = t; 
+} 
+
+
 
 //Determine size of file
 int determine_size(string filename)
@@ -127,4 +152,3 @@ void fill_array(int ary[], string filename)
     }
     infile.close();
 }
-
