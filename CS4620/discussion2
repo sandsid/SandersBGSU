@@ -1,0 +1,30 @@
+The relational DBMS we cover in this class is mostly geared for a category of applications, known as OLTP.
+Another popular category is OLAP. Yes, we are introducing these two terms, for the first time, here!
+Do some research on your own and summarize your understanding of these two types of systems. Write at least a page worth of text, 3-5 paragraphs. Your write-up should cover at least the following items:
+•	Define OLTP & OLAP. Explain the application context and the type of data handled by each
+•	Similarities and differences in the schema structure for the two systems
+•	What aspects of relational model do/do not apply to OLAP
+
+Sources: 
+Define OLTP & OLAP
+https://www.datawarehouse4u.info/OLTP-vs-OLAP.html
+https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/
+
+similarities and differences 
+https://www.stitchdata.com/resources/oltp-vs-olap/
+
+relational model
+
+OLAP
+-	Online Insightful Handling is a PC innovation term alluding to frameworks zeroed in on dissecting information in a particular data set.  These sorts of frameworks are portrayed for their logical abilities, tending to multi-dimensional or one measurement information, handling all the data. The standard uses of OLAP are bussiness insight, information composing and announcing, throught information mining processes. 
+-	On the data set level, these frameworks activity is characterized by a low degree of exchanges, managing filed and authentic data. This information is only here and there refreshed, distinguishing the SELECT data set activity as the vital component of the framework. Thusly, this sort of data sets depend on READ tasks, totaling all accessible data. Data sets that work as information stockrooms apply this system, advancing perusing and total tasks of its multidimensional information model. In this way offering an incredible help for information examination and announcing activities, basic in these sort of data sets. 
+-	The primary part of these frameworks is an OLAP solid shape. A 3D square comprises in consolidating information stockroom's designs like realities and measurements. Those are coordinated as constructions: star pattern, snowflake diagram and reality heavenly body. The converging of the multitude of 3D squares makes a multidimensional information distribution center. 
+
+OLTP
+-	Online Transaction Processing is a data framework type that focuses on exchange handling, managing functional information. 
+-	
+-	This sort of PC frameworks are recognized by the enormous number of exchanges they support, making them the best to address online application. The principle utilizations of this technique are largely sort of conditional frameworks like information bases, business, clinic applications, etc. In a straightforward manner, these frameworks assemble input data and store them on a data set, in an enormous scope. A large portion of the present applications depend on this communication approach, with executions of concentrated or descentralized frameworks. 
+-	On the data set level, these conditional frameworks base their procedure on multi-access, quick and successful querys to the information base. The most utilized activities are Supplement, Refresh and Erase, since they are straightforwardly altering the information, giving new data on new trasactions. In this way, in these frameworks, information is often refreshed, requiring a compelling compose tasks support. One extraordinary trait of those information bases is the standardization of it's information. This happens in light of the fact that information standardization gives a quicker and more viable way of performing data set composes. The principle concern is the atomicity of the trasanctions and guaranteeing that simultaneous gets to don't harm information and furthermore don't degradate framework's exhibition. 
+-	OLTP isn't just with regards to data sets, yet in addition different sorts of connection mecanisms. All customer server designs depend on these cycles, taking advantage of the quick exchange and simultaneous models. Descentralized frameworks are additionally online exchange handling, as every single intermediary program and web servervices are exchange arranged. 
+-	
+-	True Model: A financial exchange framework is an exemplary model. There are numerous clients executing activities into their records and the framework should ensure the fulfillment of the activities. For this situation there are a few simultaneous exchanges simultaneously, being information rationality and productive activities the fundamental objective.
