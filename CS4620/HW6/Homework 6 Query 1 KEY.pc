@@ -1,0 +1,288 @@
+/** 
+
+----------------------------------
+Homework 6 KEY  (Just the 1st query)
+
+Modified student.pc to do just the 1st query.
+
+Modification is pretty simple
+  STEP 1: Replace the query w the query for Problem 1
+  STEP 2: Get user input as needed.
+  STEP 3: Run the query w the user input, if any.
+  STEP 4: Print what is asked, in a loop.
+
+  These 4 step 'comments' are noted first before the step is done, so one
+          knows exactly where the edit is. Thanks.
+
+  And, as you guessed it, the edits are ONLY in 'prepareAndExecuteIt.'
+----------------------------------
+
+
+Access an Oracle database from BGLinux.bgsu.edu
+
+student.pc: This file is a ProC (well, c) program from the instructor.
+
+Connects to an Oracle database, does a simple query and couts the result.
+Oracle's interface to acces its database from a program is known as 'ProC.' 
+Has plenty of comments, plus run snapshot. Happy reading!
+
+Interactive access to an Oracle database is done with 'sqlplus.'
+------------
+
+putty:		Log into BGLinux.bgsu.edu	
+sqlplus:	Do from BGLinux.bgsu.edu
+ProC stuff:	Do from BGLinux.bgsu.edu
+
+ProC is actually a script/compiler; it takes your program, converts to
+a complex c program, then feeds it to the regular gcc compiler, and
+ultimately generates an object file, like a.out. 
+
+------------
+
+
+1. sqlplus login/logout
+                         -------------------
+$sqlplus yourOracleUserName@bgcsdb     //instructor will give an a/c & pwd
+
+SQL*Plus: Release 19.0.0.0.0 - Production on Wed Sep 15 20:56:14 2021
+Version 19.9.0.0.0
+
+Copyright (c) 1982, 2020, Oracle.  All rights reserved.
+
+Enter password:
+
+Last Successful login time: Wed Sep 15 2021 20:55:24 -04:00
+
+Connected to:
+Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
+Version 19.11.0.0.0
+
+SQL> rem CHANGE password the first time
+SQL> password
+Changing password for CSKRESMANF21
+Old password:
+New password:
+Retype new password:
+Password changed
+
+SQL> rem issue any command sql understands ... finally
+SQL> exit
+Disconnected from Oracle Database ...
+
+                         -------------------
+
+2. Copy instructor supplied table creation file and program
+
+Files in instructor dir: /home/cs/kresman/4620:  supplierTable.sql student.pc 
+
+//putty to BGLinux.bgsu.edu
+$cd $HOME
+$cp /home/cs/kresman/4620/class/supplierTable.sql .    //copies to current dir
+$cp /home/cs/kresman/4620/class/student.pc .    //copies to current dir
+
+$ls             //should these 2 files in your folder
+student.pc              supplierTable.sql 
+
+
+$>cat  supplierTable.sql
+
+  create table supplier (supplierNumber number(2), supplierName char(12));
+  rem load the data in
+  insert into supplier values (1 , 'Cindy' );
+  insert into supplier values (2, 'Joe');
+
+                         -------------------
+
+3. Create a table & populate it using sqlplus
+
+
+$>sqlplus yourOracleUserName@bgcsdb
+...
+SQL> @supplierTable.sql
+
+Table created.
+
+1 row created.
+
+1 row created.
+
+SQL> rem table is populated now ...
+SQL> select * from supplier;
+
+SUPPLIERNUMBER SUPPLIERNAME
+-------------- ------------
+             1 Cindy
+             2 Joe
+
+                         -------------------
+
+
+4. Compile the program
+
+$/home/cs/kresman/4620/4620ProC student
+
+$ls
+
+student.pc              supplierTable.sql      student
+
+                         -------------------
+5. Run the proram 
+//hardcoded query: select supplier name from supplier where supplierNumber=1
+
+./student
+
+Connected to ORACLE as user: cskresmanf21@bgcsdb
+
+Supplier name: Cindy
+
+
+ all done
+
+                         -------------------
+
+*/
+
+//Program below ....
+//NOTE the include files ...
+
+#include <stdio.h>
+#include <string.h>
+#include <sqlca.h>
+#include <stdlib.h>
+#include <sqlda.h>
+#include <sqlcpr.h>
+
+  char sqlQueryToRun[1000];	//holds the sql stat being constructed..
+  int  supplierNo;
+
+  char outputSupplierName[50];	//retrieved output from database
+
+
+// Declare error handling function - so we can process any errors
+void sql_error(char *msg);    
+
+//Instructor routines - the name says what it does
+void connectToDatabase();
+void prepareAndExecuteIt ();   //run the query and spit out results
+void commitAndExit() ;
+
+// Oracle requried communication area b/w database and C++ program
+exec sql include sqlca;
+
+main() {
+
+//  Call sql_error() function on any error in an embedded SQL statement
+
+    exec sql 
+	WHENEVER SQLERROR DO sql_error("ORACLE error:"); 
+    connectToDatabase();
+
+    //Construct a SQL, run it, and print the results
+    prepareAndExecuteIt ();
+    commitAndExit();
+
+}
+
+void connectToDatabase() {
+
+//CHANGE these two lines to your username and pwd
+char username[123] = "yourOracleUserName@bgcsdb";
+char password[123] = "yourOraclePassword";
+
+//Connect to Oracle
+
+    EXEC SQL WHENEVER SQLERROR DO sql_error("ORACLE error--");
+
+    EXEC SQL CONNECT :username IDENTIFIED BY :password;
+    printf("\nConnected to ORACLE as user: %s\n", username);
+
+}
+
+
+void commitAndExit() {
+
+    exec sql commit work release;
+    exit(0);  
+}
+void sql_error(char *msg) {
+    char err_msg[512];
+    size_t buf_len, msg_len;
+
+    EXEC SQL WHENEVER SQLERROR CONTINUE;
+
+    printf("\n%s\n", msg);
+
+    buf_len = sizeof (err_msg);
+    sqlglm(err_msg, &buf_len, &msg_len);
+    printf("%.*s\n", msg_len, err_msg);
+
+    EXEC SQL ROLLBACK RELEASE;
+    exit(EXIT_FAILURE);
+}
+
+
+void  prepareAndExecuteIt() {
+
+//  Prepare the query
+
+//
+//  STEP 1: Replace the query w the query for Problem 1
+//  
+    exec sql PREPARE dbVariableToHoldQuery FROM
+ SELECT e.employeeName,  max (a.cruisingRange) as maxRange
+   FROM dbKresman.Certified c, dbKresman.Employees e,
+                          dbKresman.airplane  a
+     where c.employeeID = e.employeeID and
+           c.airplaneID = a.airplaneID
+   GROUP BY e.employeeName
+   having count (*) <= :placeHolder;
+
+//        SELECT supplierName from supplier where supplierNumber = 1;
+
+//  Assoicate a cursor to hold the result
+    EXEC SQL DECLARE cursorToHoldResultTuples CURSOR FOR
+        dbVariableToHoldQuery;
+
+//
+//  What query to run?
+//  
+    printf("Type in a query to run, a # from 1 to 4. \n");
+    int querytoRun;
+    scanf ("%d", &querytoRun);
+    if (querytoRun != 1 ) {
+              printf ("Sorry not implemented ... Quitting! \n");
+              exit(1);
+    }
+//
+//  STEP 2: Get user input as needed.
+//  
+    printf("Query 1: For each pilot ... at most X1 airplanes: X1 please?\n" );
+    int noAirplanes;
+    scanf ("%d", &noAirplanes);
+
+//
+//  STEP 3 Run the query w the user input, if any.
+//  
+
+//  Run the query
+    EXEC SQL OPEN cursorToHoldResultTuples using :noAirplanes;
+
+//
+//  STEP 4 Run the query w the user input, if any.
+//  
+    printf("\n  Pilot Name         ...          MaxRange \n " );
+
+    exec SQL whenever not found do break;
+    char outputEmployeeName [30];  int outputMaxRange;
+    for (;;) {
+      exec sql FETCH cursorToHoldResultTuples 
+         INTO :outputEmployeeName, :outputMaxRange;
+      printf("\n%s %10d\n", outputEmployeeName, outputMaxRange );
+
+    }
+    printf("\n\n all done\n");
+
+//  Close the cursor
+    exec sql close cursorToHoldResultTuples;
+}
+
