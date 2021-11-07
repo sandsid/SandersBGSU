@@ -31,3 +31,16 @@ D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug
 D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.exe
 D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.pdb
 D:\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.FieldExceptionForm.resources
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\bin\Debug\Lab6.exe.config
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\bin\Debug\Lab6.exe
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\bin\Debug\Lab6.pdb
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.csproj.AssemblyReference.cache
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.FieldExceptionForm.resources
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.Form1.resources
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.PhoneForm.resources
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.csproj.GenerateResource.cache
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\PhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.exe
+C:\Users\User\SandersBGSU\CS3160\Assignments\Sanders_Rafeld_assignment_6\PhoneApp\obj\Debug\Lab6.pdb
